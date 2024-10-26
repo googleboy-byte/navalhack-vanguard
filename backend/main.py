@@ -9,6 +9,7 @@ from scripts.rag_pipeline import *
 from database.db import *
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
+from fastapi.responses import RedirectResponse
 
 ocr = OCRProcessor()
 
