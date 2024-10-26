@@ -8,7 +8,7 @@ import json
 from scripts.rag_pipeline import *
 from database.db import *
 from fastapi.middleware.cors import CORSMiddleware
-
+from pydantic import BaseModel
 
 ocr = OCRProcessor()
 
