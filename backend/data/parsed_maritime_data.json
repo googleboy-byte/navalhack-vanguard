@@ -1,0 +1,2064 @@
+{
+    "parsed_reports": [
+        {
+            "date": "2024-10-20",
+            "time": "14:30 UTC",
+            "location": "Patrol Vessel Alpha",
+            "vessel_name": "Pacific Trader",
+            "coordinates": {
+                "latitude": "13\u00b015'N",
+                "longitude": "71\u00b030'W"
+            },
+            "heading": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "speed": "12",
+            "message": "Cargo vessel \"Pacific Trader\" observed at 13\u00c2\u00b015'N, 71\u00c2\u00b030'W. Heading 045\u00c2\u00b0, speed 12 knots. IMO number 9876543. No suspicious activity.",
+            "alert": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "imo_number": "9876543",
+            "priority": "TypeError in RAG generation. Please check input dimensions and tensor compatibility."
+        },
+        {
+            "date": "2024-10-20",
+            "time": "14:30 UTC",
+            "location": "Patrol Vessel Alpha",
+            "vessel_name": "Pacific Trader",
+            "coordinates": {
+                "latitude": "13\u00b015'N",
+                "longitude": "71\u00b030'W"
+            },
+            "heading": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "speed": "12",
+            "message": "Cargo vessel \"Pacific Trader\" observed at 13\u00c2\u00b015'N, 71\u00c2\u00b030'W. Heading 045\u00c2\u00b0, speed 12 knots. IMO number 9876543. No suspicious activity.",
+            "alert": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "imo_number": "9876543",
+            "priority": "TypeError in RAG generation. Please check input dimensions and tensor compatibility."
+        },
+        {
+            "date": "2024-10-20",
+            "time": "15:45 UTC",
+            "location": "Coastal Station Bravo",
+            "vessel_name": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "coordinates": {
+                "latitude": "12\u00b050'N",
+                "longitude": "70\u00b015'W"
+            },
+            "heading": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "speed": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "message": "Two fishing vessels spotted 3 nautical miles offshore. Coordinates 12\u00c2\u00b050'N, 70\u00c2\u00b015'W. Stationary. Appear to be engaged in legal fishing activities.",
+            "alert": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "imo_number": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "priority": "TypeError in RAG generation. Please check input dimensions and tensor compatibility."
+        },
+        {
+            "date": "2024-10-20",
+            "time": "15:45 UTC",
+            "location": "Coastal Station Bravo",
+            "vessel_name": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "coordinates": {
+                "latitude": "12\u00b050'N",
+                "longitude": "70\u00b015'W"
+            },
+            "heading": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "speed": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "message": "Two fishing vessels spotted 3 nautical miles offshore. Coordinates 12\u00c2\u00b050'N, 70\u00c2\u00b015'W. Stationary. Appear to be engaged in legal fishing activities.",
+            "alert": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "imo_number": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "priority": "TypeError in RAG generation. Please check input dimensions and tensor compatibility."
+        },
+        {
+            "date": "2024-10-20",
+            "time": "17:20 UTC",
+            "location": "Aerial Patrol Charlie",
+            "vessel_name": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "coordinates": {
+                "latitude": "13\u00b005'N",
+                "longitude": "71\u00b010'W"
+            },
+            "heading": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "speed": "35",
+            "message": "Unidentified fast-moving craft at 13\u00c2\u00b005'N, 71\u00c2\u00b010'W. Heading 270\u00c2\u00b0, estimated speed 35 knots. Possible smuggling vessel. Alerting nearby patrol boats.",
+            "alert": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "imo_number": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "priority": "TypeError in RAG generation. Please check input dimensions and tensor compatibility."
+        },
+        {
+            "date": "2024-10-20",
+            "time": "17:20 UTC",
+            "location": "Aerial Patrol Charlie",
+            "vessel_name": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "coordinates": {
+                "latitude": "13\u00b005'N",
+                "longitude": "71\u00b010'W"
+            },
+            "heading": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "speed": "35",
+            "message": "Unidentified fast-moving craft at 13\u00c2\u00b005'N, 71\u00c2\u00b010'W. Heading 270\u00c2\u00b0, estimated speed 35 knots. Possible smuggling vessel. Alerting nearby patrol boats.",
+            "alert": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "imo_number": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "priority": "TypeError in RAG generation. Please check input dimensions and tensor compatibility."
+        },
+        {
+            "date": "2024-10-20",
+            "time": "19:00 UTC",
+            "location": "Submarine Delta",
+            "vessel_name": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "coordinates": {
+                "latitude": "12\u00b040'N",
+                "longitude": "70\u00b055'W"
+            },
+            "heading": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "speed": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "message": "Large underwater contact detected at 12\u00c2\u00b040'N, 70\u00c2\u00b055'W. Moving slowly, depth 200 meters. Possibly whale or submarine. Continuing to monitor.",
+            "alert": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "imo_number": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "priority": "TypeError in RAG generation. Please check input dimensions and tensor compatibility."
+        },
+        {
+            "date": "2024-10-20",
+            "time": "19:00 UTC",
+            "location": "Submarine Delta",
+            "vessel_name": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "coordinates": {
+                "latitude": "12\u00b040'N",
+                "longitude": "70\u00b055'W"
+            },
+            "heading": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "speed": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "message": "Large underwater contact detected at 12\u00c2\u00b040'N, 70\u00c2\u00b055'W. Moving slowly, depth 200 meters. Possibly whale or submarine. Continuing to monitor.",
+            "alert": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "imo_number": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "priority": "TypeError in RAG generation. Please check input dimensions and tensor compatibility."
+        },
+        {
+            "date": "2024-10-20",
+            "time": "20:30 UTC",
+            "location": "Patrol Vessel Echo",
+            "vessel_name": "Ocean Star",
+            "coordinates": {
+                "latitude": "13\u00b030'N",
+                "longitude": "71\u00b045'W"
+            },
+            "heading": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "speed": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "message": "Cruise ship \"Ocean Star\" observed entering restricted zone at 13\u00c2\u00b030'N, 71\u00c2\u00b045'W. Advised to change course. Ship complied and is now on correct heading.",
+            "alert": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "imo_number": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "priority": "TypeError in RAG generation. Please check input dimensions and tensor compatibility."
+        },
+        {
+            "date": "2024-10-20",
+            "time": "20:30 UTC",
+            "location": "Patrol Vessel Echo",
+            "vessel_name": "Ocean Star",
+            "coordinates": {
+                "latitude": "13\u00b030'N",
+                "longitude": "71\u00b045'W"
+            },
+            "heading": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "speed": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "message": "Cruise ship \"Ocean Star\" observed entering restricted zone at 13\u00c2\u00b030'N, 71\u00c2\u00b045'W. Advised to change course. Ship complied and is now on correct heading.",
+            "alert": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "imo_number": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "priority": "TypeError in RAG generation. Please check input dimensions and tensor compatibility."
+        },
+        {
+            "date": "2024-10-20",
+            "time": "22:10 UTC",
+            "location": "Radar Station Foxtrot",
+            "vessel_name": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "coordinates": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "heading": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "speed": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "message": "Multiple small contacts detected 20 nautical miles east of Port Xavier. Possible fishing fleet. Estimated 15-20 vessels. No abnormal activity observed.",
+            "alert": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "imo_number": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "priority": "TypeError in RAG generation. Please check input dimensions and tensor compatibility."
+        },
+        {
+            "date": "2024-10-20",
+            "time": "22:10 UTC",
+            "location": "Radar Station Foxtrot",
+            "vessel_name": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "coordinates": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "heading": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "speed": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "message": "Multiple small contacts detected 20 nautical miles east of Port Xavier. Possible fishing fleet. Estimated 15-20 vessels. No abnormal activity observed.",
+            "alert": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "imo_number": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "priority": "TypeError in RAG generation. Please check input dimensions and tensor compatibility."
+        },
+        {
+            "date": "2024-10-20",
+            "time": "23:55 UTC",
+            "location": "Patrol Vessel Golf",
+            "vessel_name": "Black Pearl",
+            "coordinates": {
+                "latitude": "12\u00b030'N",
+                "longitude": "70\u00b040'W"
+            },
+            "heading": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "speed": "8",
+            "message": "Tanker \"Black Pearl\" observed at 12\u00c2\u00b030'N, 70\u00c2\u00b040'W. Heading 180\u00c2\u00b0, speed 8 knots. Routine transit. Tanker is on scheduled route to Port Yankee.",
+            "alert": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "imo_number": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "priority": "TypeError in RAG generation. Please check input dimensions and tensor compatibility."
+        },
+        {
+            "date": "2024-10-20",
+            "time": "23:55 UTC",
+            "location": "Patrol Vessel Golf",
+            "vessel_name": "Black Pearl",
+            "coordinates": {
+                "latitude": "12\u00b030'N",
+                "longitude": "70\u00b040'W"
+            },
+            "heading": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "speed": "8",
+            "message": "Tanker \"Black Pearl\" observed at 12\u00c2\u00b030'N, 70\u00c2\u00b040'W. Heading 180\u00c2\u00b0, speed 8 knots. Routine transit. Tanker is on scheduled route to Port Yankee.",
+            "alert": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "imo_number": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "priority": "TypeError in RAG generation. Please check input dimensions and tensor compatibility."
+        },
+        {
+            "date": "2024-10-21",
+            "time": "01:30 UTC",
+            "location": "Coastal Station Hotel",
+            "vessel_name": "Sea Breeze",
+            "coordinates": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "heading": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "speed": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "message": "Pleasure yacht \"Sea Breeze\" entering Port Xavier. Length approx. 30 meters. No irregularities observed. Standard port entry procedures followed.",
+            "alert": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "imo_number": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "priority": "TypeError in RAG generation. Please check input dimensions and tensor compatibility."
+        },
+        {
+            "date": "2024-10-21",
+            "time": "01:30 UTC",
+            "location": "Coastal Station Hotel",
+            "vessel_name": "Sea Breeze",
+            "coordinates": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "heading": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "speed": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "message": "Pleasure yacht \"Sea Breeze\" entering Port Xavier. Length approx. 30 meters. No irregularities observed. Standard port entry procedures followed.",
+            "alert": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "imo_number": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "priority": "TypeError in RAG generation. Please check input dimensions and tensor compatibility."
+        },
+        {
+            "date": "2024-10-21",
+            "time": "03:40 UTC",
+            "location": "Aerial Patrol India",
+            "vessel_name": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "coordinates": {
+                "latitude": "13\u00b020'N",
+                "longitude": "71\u00b015'W"
+            },
+            "heading": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "speed": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "message": "Oil slick detected at 13\u00c2\u00b020'N, 71\u00c2\u00b015'W. Approximately 500 meters in length. Source unknown. Environmental response team notified for further investigation.",
+            "alert": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "imo_number": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "priority": "TypeError in RAG generation. Please check input dimensions and tensor compatibility."
+        },
+        {
+            "date": "2024-10-21",
+            "time": "03:40 UTC",
+            "location": "Aerial Patrol India",
+            "vessel_name": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "coordinates": {
+                "latitude": "13\u00b020'N",
+                "longitude": "71\u00b015'W"
+            },
+            "heading": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "speed": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "message": "Oil slick detected at 13\u00c2\u00b020'N, 71\u00c2\u00b015'W. Approximately 500 meters in length. Source unknown. Environmental response team notified for further investigation.",
+            "alert": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "imo_number": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "priority": "TypeError in RAG generation. Please check input dimensions and tensor compatibility."
+        },
+        {
+            "date": "2024-10-21",
+            "time": "05:05 UTC",
+            "location": "Patrol Vessel Juliet",
+            "vessel_name": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "coordinates": {
+                "latitude": "12\u00b055'N",
+                "longitude": "70\u00b030'W"
+            },
+            "heading": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "speed": "6",
+            "message": "Unlit vessel spotted at 12\u00c2\u00b055'N, 70\u00c2\u00b030'W. Heading 090\u00c2\u00b0, speed 6 knots. Approached for inspection. Fishing vessel with malfunctioning lights. Issued warning.",
+            "alert": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "imo_number": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "priority": "TypeError in RAG generation. Please check input dimensions and tensor compatibility."
+        },
+        {
+            "date": "2024-10-21",
+            "time": "05:05 UTC",
+            "location": "Patrol Vessel Juliet",
+            "vessel_name": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "coordinates": {
+                "latitude": "12\u00b055'N",
+                "longitude": "70\u00b030'W"
+            },
+            "heading": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "speed": "6",
+            "message": "Unlit vessel spotted at 12\u00c2\u00b055'N, 70\u00c2\u00b030'W. Heading 090\u00c2\u00b0, speed 6 knots. Approached for inspection. Fishing vessel with malfunctioning lights. Issued warning.",
+            "alert": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "imo_number": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "priority": "TypeError in RAG generation. Please check input dimensions and tensor compatibility."
+        },
+        {
+            "date": "2024-10-21",
+            "time": "06:30 UTC",
+            "location": "Lighthouse Keeper Kilo",
+            "vessel_name": "Asian Enterprise",
+            "coordinates": {
+                "latitude": "13\u00b010'N",
+                "longitude": "70\u00b020'W"
+            },
+            "heading": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "speed": "15",
+            "message": "Large cargo ship \"Asian Enterprise\" passed 2 nautical miles off lighthouse at 13\u00c2\u00b010'N, 70\u00c2\u00b020'W. Heading 315\u00c2\u00b0, speed 15 knots. Normal transit observed.",
+            "alert": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "imo_number": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "priority": "TypeError in RAG generation. Please check input dimensions and tensor compatibility."
+        },
+        {
+            "date": "2024-10-21",
+            "time": "06:30 UTC",
+            "location": "Lighthouse Keeper Kilo",
+            "vessel_name": "Asian Enterprise",
+            "coordinates": {
+                "latitude": "13\u00b010'N",
+                "longitude": "70\u00b020'W"
+            },
+            "heading": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "speed": "15",
+            "message": "Large cargo ship \"Asian Enterprise\" passed 2 nautical miles off lighthouse at 13\u00c2\u00b010'N, 70\u00c2\u00b020'W. Heading 315\u00c2\u00b0, speed 15 knots. Normal transit observed.",
+            "alert": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "imo_number": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "priority": "TypeError in RAG generation. Please check input dimensions and tensor compatibility."
+        },
+        {
+            "date": "2024-10-21",
+            "time": "08:15 UTC",
+            "location": "Patrol Aircraft Lima",
+            "vessel_name": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "coordinates": {
+                "latitude": "12\u00b045'N",
+                "longitude": "71\u00b005'W"
+            },
+            "heading": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "speed": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "message": "School of dolphins spotted at 12\u00c2\u00b045'N, 71\u00c2\u00b005'W. Approximately 50 individuals. No vessels in immediate vicinity. Noted for marine life monitoring program.",
+            "alert": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "imo_number": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "priority": "TypeError in RAG generation. Please check input dimensions and tensor compatibility."
+        },
+        {
+            "date": "2024-10-21",
+            "time": "08:15 UTC",
+            "location": "Patrol Aircraft Lima",
+            "vessel_name": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "coordinates": {
+                "latitude": "12\u00b045'N",
+                "longitude": "71\u00b005'W"
+            },
+            "heading": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "speed": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "message": "School of dolphins spotted at 12\u00c2\u00b045'N, 71\u00c2\u00b005'W. Approximately 50 individuals. No vessels in immediate vicinity. Noted for marine life monitoring program.",
+            "alert": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "imo_number": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "priority": "TypeError in RAG generation. Please check input dimensions and tensor compatibility."
+        },
+        {
+            "date": "2024-10-21",
+            "time": "09:50 UTC",
+            "location": "Coastal Radar Mike",
+            "vessel_name": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "coordinates": {
+                "latitude": "13\u00b035'N",
+                "longitude": "71\u00b025'W"
+            },
+            "heading": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "speed": "120",
+            "message": "Small aircraft flying low over water at 13\u00c2\u00b035'N, 71\u00c2\u00b025'W. Heading 180\u00c2\u00b0, speed 120 knots. Unable to establish communication. Alerting air traffic control.",
+            "alert": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "imo_number": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "priority": "TypeError in RAG generation. Please check input dimensions and tensor compatibility."
+        },
+        {
+            "date": "2024-10-21",
+            "time": "09:50 UTC",
+            "location": "Coastal Radar Mike",
+            "vessel_name": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "coordinates": {
+                "latitude": "13\u00b035'N",
+                "longitude": "71\u00b025'W"
+            },
+            "heading": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "speed": "120",
+            "message": "Small aircraft flying low over water at 13\u00c2\u00b035'N, 71\u00c2\u00b025'W. Heading 180\u00c2\u00b0, speed 120 knots. Unable to establish communication. Alerting air traffic control.",
+            "alert": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "imo_number": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "priority": "TypeError in RAG generation. Please check input dimensions and tensor compatibility."
+        },
+        {
+            "date": "2024-10-21",
+            "time": "11:25 UTC",
+            "location": "Patrol Boat November",
+            "vessel_name": "Windseeker",
+            "coordinates": {
+                "latitude": "12\u00b038'N",
+                "longitude": "70\u00b048'W"
+            },
+            "heading": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "speed": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "message": "Intercepted distress call from sailing yacht \"Windseeker\" at 12\u00c2\u00b038'N, 70\u00c2\u00b048'W. Reporting engine failure. Proceeding to assist. ETA 30 minutes.",
+            "alert": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "imo_number": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "priority": "TypeError in RAG generation. Please check input dimensions and tensor compatibility."
+        },
+        {
+            "date": "2024-10-21",
+            "time": "11:25 UTC",
+            "location": "Patrol Boat November",
+            "vessel_name": "Windseeker",
+            "coordinates": {
+                "latitude": "12\u00b038'N",
+                "longitude": "70\u00b048'W"
+            },
+            "heading": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "speed": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "message": "Intercepted distress call from sailing yacht \"Windseeker\" at 12\u00c2\u00b038'N, 70\u00c2\u00b048'W. Reporting engine failure. Proceeding to assist. ETA 30 minutes.",
+            "alert": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "imo_number": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "priority": "TypeError in RAG generation. Please check input dimensions and tensor compatibility."
+        },
+        {
+            "date": "2024-10-21",
+            "time": "13:00 UTC",
+            "location": "Port Authority Oscar",
+            "vessel_name": "Global Freight",
+            "coordinates": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "heading": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "speed": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "message": "Container ship \"Global Freight\" docked at Port Xavier. Length 300 meters. Customs inspection underway. No anomalies reported in initial assessment.",
+            "alert": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "imo_number": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "priority": "TypeError in RAG generation. Please check input dimensions and tensor compatibility."
+        },
+        {
+            "date": "2024-10-21",
+            "time": "13:00 UTC",
+            "location": "Port Authority Oscar",
+            "vessel_name": "Global Freight",
+            "coordinates": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "heading": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "speed": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "message": "Container ship \"Global Freight\" docked at Port Xavier. Length 300 meters. Customs inspection underway. No anomalies reported in initial assessment.",
+            "alert": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "imo_number": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "priority": "TypeError in RAG generation. Please check input dimensions and tensor compatibility."
+        },
+        {
+            "date": "2024-10-20",
+            "time": "14:30 UTC",
+            "location": "Patrol Vessel Alpha",
+            "vessel_name": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "coordinates": {
+                "latitude": "13\u00b015'N",
+                "longitude": "71\u00b030'W"
+            },
+            "heading": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "speed": "12",
+            "message": "Cargo vessel observed at 13\u00c2\u00b015'N, 71\u00c2\u00b030'W. Heading 045\u00c2\u00b0, speed 12 knots. No suspicious activity.",
+            "alert": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "imo_number": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "priority": "TypeError in RAG generation. Please check input dimensions and tensor compatibility."
+        },
+        {
+            "date": "2024-10-20",
+            "time": "14:30 UTC",
+            "location": "Patrol Vessel Alpha",
+            "vessel_name": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "coordinates": {
+                "latitude": "13\u00b015'N",
+                "longitude": "71\u00b030'W"
+            },
+            "heading": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "speed": "12",
+            "message": "Cargo vessel observed at 13\u00c2\u00b015'N, 71\u00c2\u00b030'W. Heading 045\u00c2\u00b0, speed 12 knots. No suspicious activity.",
+            "alert": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "imo_number": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "priority": "TypeError in RAG generation. Please check input dimensions and tensor compatibility."
+        },
+        {
+            "date": "2024-10-21",
+            "time": "08:45 UTC",
+            "location": "Coastal Station Bravo",
+            "vessel_name": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "coordinates": {
+                "latitude": "12\u00b050'N",
+                "longitude": "70\u00b015'W"
+            },
+            "heading": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "speed": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "message": "Two fishing vessels spotted 3 nautical miles offshore. Coordinates 12\u00c2\u00b050'N, 70\u00c2\u00b015'W. Stationary.",
+            "alert": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "imo_number": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "priority": "TypeError in RAG generation. Please check input dimensions and tensor compatibility."
+        },
+        {
+            "date": "2024-10-21",
+            "time": "08:45 UTC",
+            "location": "Coastal Station Bravo",
+            "vessel_name": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "coordinates": {
+                "latitude": "12\u00b050'N",
+                "longitude": "70\u00b015'W"
+            },
+            "heading": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "speed": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "message": "Two fishing vessels spotted 3 nautical miles offshore. Coordinates 12\u00c2\u00b050'N, 70\u00c2\u00b015'W. Stationary.",
+            "alert": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "imo_number": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "priority": "TypeError in RAG generation. Please check input dimensions and tensor compatibility."
+        },
+        {
+            "date": "2024-10-22",
+            "time": "22:15 UTC",
+            "location": "Aerial Patrol Charlie",
+            "vessel_name": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "coordinates": {
+                "latitude": "13\u00b005'N",
+                "longitude": "71\u00b010'W"
+            },
+            "heading": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "speed": "35",
+            "message": "Unidentified fast-moving craft at 13\u00c2\u00b005'N, 71\u00c2\u00b010'W. Heading 270\u00c2\u00b0, estimated speed 35 knots.",
+            "alert": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "imo_number": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "priority": "TypeError in RAG generation. Please check input dimensions and tensor compatibility."
+        },
+        {
+            "date": "2024-10-22",
+            "time": "22:15 UTC",
+            "location": "Aerial Patrol Charlie",
+            "vessel_name": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "coordinates": {
+                "latitude": "13\u00b005'N",
+                "longitude": "71\u00b010'W"
+            },
+            "heading": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "speed": "35",
+            "message": "Unidentified fast-moving craft at 13\u00c2\u00b005'N, 71\u00c2\u00b010'W. Heading 270\u00c2\u00b0, estimated speed 35 knots.",
+            "alert": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "imo_number": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "priority": "TypeError in RAG generation. Please check input dimensions and tensor compatibility."
+        },
+        {
+            "date": "2024-10-23",
+            "time": "11:00 UTC",
+            "location": "Submarine Delta",
+            "vessel_name": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "coordinates": {
+                "latitude": "12\u00b040'N",
+                "longitude": "70\u00b055'W"
+            },
+            "heading": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "speed": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "message": "Large underwater contact detected at 12\u00c2\u00b040'N, 70\u00c2\u00b055'W. Moving slowly, depth 200 meters.",
+            "alert": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "imo_number": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "priority": "TypeError in RAG generation. Please check input dimensions and tensor compatibility."
+        },
+        {
+            "date": "2024-10-23",
+            "time": "11:00 UTC",
+            "location": "Submarine Delta",
+            "vessel_name": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "coordinates": {
+                "latitude": "12\u00b040'N",
+                "longitude": "70\u00b055'W"
+            },
+            "heading": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "speed": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "message": "Large underwater contact detected at 12\u00c2\u00b040'N, 70\u00c2\u00b055'W. Moving slowly, depth 200 meters.",
+            "alert": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "imo_number": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "priority": "TypeError in RAG generation. Please check input dimensions and tensor compatibility."
+        },
+        {
+            "date": "2024-10-24",
+            "time": "16:20 UTC",
+            "location": "Patrol Vessel Echo",
+            "vessel_name": "Ocean Star",
+            "coordinates": {
+                "latitude": "13\u00b030'N",
+                "longitude": "71\u00b045'W"
+            },
+            "heading": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "speed": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "message": "Cruise ship \"Ocean Star\" observed entering restricted zone at 13\u00c2\u00b030'N, 71\u00c2\u00b045'W. Advised to change course.",
+            "alert": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "imo_number": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "priority": "TypeError in RAG generation. Please check input dimensions and tensor compatibility."
+        },
+        {
+            "date": "2024-10-24",
+            "time": "16:20 UTC",
+            "location": "Patrol Vessel Echo",
+            "vessel_name": "Ocean Star",
+            "coordinates": {
+                "latitude": "13\u00b030'N",
+                "longitude": "71\u00b045'W"
+            },
+            "heading": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "speed": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "message": "Cruise ship \"Ocean Star\" observed entering restricted zone at 13\u00c2\u00b030'N, 71\u00c2\u00b045'W. Advised to change course.",
+            "alert": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "imo_number": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "priority": "TypeError in RAG generation. Please check input dimensions and tensor compatibility."
+        },
+        {
+            "date": "2024-10-25",
+            "time": "03:10 UTC",
+            "location": "Radar Station Foxtrot",
+            "vessel_name": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "coordinates": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "heading": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "speed": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "message": "Multiple small contacts detected 20 nautical miles east of Port Xavier. Possible fishing fleet.",
+            "alert": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "imo_number": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "priority": "TypeError in RAG generation. Please check input dimensions and tensor compatibility."
+        },
+        {
+            "date": "2024-10-25",
+            "time": "03:10 UTC",
+            "location": "Radar Station Foxtrot",
+            "vessel_name": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "coordinates": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "heading": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "speed": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "message": "Multiple small contacts detected 20 nautical miles east of Port Xavier. Possible fishing fleet.",
+            "alert": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "imo_number": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "priority": "TypeError in RAG generation. Please check input dimensions and tensor compatibility."
+        },
+        {
+            "date": "2024-10-26",
+            "time": "19:55 UTC",
+            "location": "Patrol Vessel Golf",
+            "vessel_name": "Black Pearl",
+            "coordinates": {
+                "latitude": "12\u00b030'N",
+                "longitude": "70\u00b040'W"
+            },
+            "heading": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "speed": "8",
+            "message": "Tanker \"Black Pearl\" observed at 12\u00c2\u00b030'N, 70\u00c2\u00b040'W. Heading 180\u00c2\u00b0, speed 8 knots. Routine transit.",
+            "alert": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "imo_number": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "priority": "TypeError in RAG generation. Please check input dimensions and tensor compatibility."
+        },
+        {
+            "date": "2024-10-26",
+            "time": "19:55 UTC",
+            "location": "Patrol Vessel Golf",
+            "vessel_name": "Black Pearl",
+            "coordinates": {
+                "latitude": "12\u00b030'N",
+                "longitude": "70\u00b040'W"
+            },
+            "heading": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "speed": "8",
+            "message": "Tanker \"Black Pearl\" observed at 12\u00c2\u00b030'N, 70\u00c2\u00b040'W. Heading 180\u00c2\u00b0, speed 8 knots. Routine transit.",
+            "alert": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "imo_number": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "priority": "TypeError in RAG generation. Please check input dimensions and tensor compatibility."
+        },
+        {
+            "date": "2024-10-27",
+            "time": "07:30 UTC",
+            "location": "Coastal Station Hotel",
+            "vessel_name": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "coordinates": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "heading": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "speed": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "message": "Pleasure yacht entering Port Xavier. Length approx. 30 meters. No irregularities observed.",
+            "alert": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "imo_number": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "priority": "TypeError in RAG generation. Please check input dimensions and tensor compatibility."
+        },
+        {
+            "date": "2024-10-27",
+            "time": "07:30 UTC",
+            "location": "Coastal Station Hotel",
+            "vessel_name": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "coordinates": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "heading": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "speed": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "message": "Pleasure yacht entering Port Xavier. Length approx. 30 meters. No irregularities observed.",
+            "alert": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "imo_number": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "priority": "TypeError in RAG generation. Please check input dimensions and tensor compatibility."
+        },
+        {
+            "date": "2024-10-28",
+            "time": "13:40 UTC",
+            "location": "Aerial Patrol India",
+            "vessel_name": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "coordinates": {
+                "latitude": "13\u00b020'N",
+                "longitude": "71\u00b015'W"
+            },
+            "heading": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "speed": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "message": "Oil slick detected at 13\u00c2\u00b020'N, 71\u00c2\u00b015'W. Approximately 500 meters in length. Source unknown.",
+            "alert": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "imo_number": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "priority": "TypeError in RAG generation. Please check input dimensions and tensor compatibility."
+        },
+        {
+            "date": "2024-10-28",
+            "time": "13:40 UTC",
+            "location": "Aerial Patrol India",
+            "vessel_name": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "coordinates": {
+                "latitude": "13\u00b020'N",
+                "longitude": "71\u00b015'W"
+            },
+            "heading": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "speed": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "message": "Oil slick detected at 13\u00c2\u00b020'N, 71\u00c2\u00b015'W. Approximately 500 meters in length. Source unknown.",
+            "alert": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "imo_number": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "priority": "TypeError in RAG generation. Please check input dimensions and tensor compatibility."
+        },
+        {
+            "date": "2024-10-29",
+            "time": "05:05 UTC",
+            "location": "Patrol Vessel Juliet",
+            "vessel_name": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "coordinates": {
+                "latitude": "12\u00b055'N",
+                "longitude": "70\u00b030'W"
+            },
+            "heading": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "speed": "6",
+            "message": "Unlit vessel spotted at 12\u00c2\u00b055'N, 70\u00c2\u00b030'W. Heading 090\u00c2\u00b0, speed 6 knots. Investigating further.",
+            "alert": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "imo_number": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "priority": "TypeError in RAG generation. Please check input dimensions and tensor compatibility."
+        },
+        {
+            "date": "2024-10-29",
+            "time": "05:05 UTC",
+            "location": "Patrol Vessel Juliet",
+            "vessel_name": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "coordinates": {
+                "latitude": "12\u00b055'N",
+                "longitude": "70\u00b030'W"
+            },
+            "heading": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "speed": "6",
+            "message": "Unlit vessel spotted at 12\u00c2\u00b055'N, 70\u00c2\u00b030'W. Heading 090\u00c2\u00b0, speed 6 knots. Investigating further.",
+            "alert": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "imo_number": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.",
+            "priority": "TypeError in RAG generation. Please check input dimensions and tensor compatibility."
+        }
+    ],
+    "parsed_comm_messages": [
+        {
+            "from": "PATROL BOAT BRAVO",
+            "to": "COMMAND CENTER",
+            "dtg": "201700Z OCT 24",
+            "vessel_name": null,
+            "message": "1. DETECTED SUBMARINE PERISCOPE AT 13\u00c2\u00b045'N, 71\u00c2\u00b023'W AT 1645Z.",
+            "alert": 1,
+            "priority": "URGENT",
+            "coordinates": {
+                "latitude": "13\u00b045'N",
+                "longitude": "71\u00b023'W"
+            },
+            "additional_info": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.No additional info"
+        },
+        {
+            "from": "COASTAL STATION ALPHA",
+            "to": "ALL UNITS",
+            "dtg": "201830Z OCT 24",
+            "vessel_name": null,
+            "message": "1. WEATHER ADVISORY: TROPICAL STORM APPROACHING.",
+            "alert": 0,
+            "priority": "ROUTINE",
+            "coordinates": null,
+            "additional_info": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.No additional info"
+        },
+        {
+            "from": "AIR PATROL CHARLIE",
+            "to": "COMMAND CENTER",
+            "dtg": "202000Z OCT 24",
+            "vessel_name": null,
+            "message": "1. SPOTTED VESSEL MATCHING DESCRIPTION OF WANTED SMUGGLING SHIP.",
+            "alert": 1,
+            "priority": "IMMEDIATE",
+            "coordinates": null,
+            "additional_info": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.Suspicious activity detected"
+        },
+        {
+            "from": "SUBMARINE DELTA",
+            "to": "FLEET COMMAND",
+            "dtg": "202130Z OCT 24",
+            "vessel_name": null,
+            "message": "1. COMPLETED UNDERWATER MAPPING OF SECTOR 4.",
+            "alert": 0,
+            "priority": "CONFIDENTIAL",
+            "coordinates": null,
+            "additional_info": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.No additional info"
+        },
+        {
+            "from": "PORT AUTHORITY XAVIER",
+            "to": "ALL MARITIME UNITS",
+            "dtg": "202300Z OCT 24",
+            "vessel_name": null,
+            "message": "1. PORT CLOSURE DUE TO MAINTENANCE.",
+            "alert": 0,
+            "priority": "ROUTINE",
+            "coordinates": null,
+            "additional_info": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.No additional info"
+        },
+        {
+            "from": "RESCUE COORDINATION CENTER",
+            "to": "ALL VESSELS IN VICINITY",
+            "dtg": "210030Z OCT 24",
+            "vessel_name": "SERENITY",
+            "message": "1. DISTRESS CALL RECEIVED FROM YACHT \"SERENITY\"",
+            "alert": 1,
+            "priority": "URGENT",
+            "coordinates": null,
+            "additional_info": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.No additional info"
+        },
+        {
+            "from": "ENVIRONMENTAL PROTECTION UNIT",
+            "to": "COMMAND CENTER",
+            "dtg": "210200Z OCT 24",
+            "vessel_name": null,
+            "message": "1. OIL SPILL DETECTED AT 13\u00c2\u00b025'N, 71\u00c2\u00b020'W.",
+            "alert": 1,
+            "priority": "IMMEDIATE",
+            "coordinates": {
+                "latitude": "13\u00b025'N",
+                "longitude": "71\u00b020'W"
+            },
+            "additional_info": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.No additional info"
+        },
+        {
+            "from": "FISHERIES PATROL ECHO",
+            "to": "COASTAL ENFORCEMENT",
+            "dtg": "210330Z OCT 24",
+            "vessel_name": "LUCKY STAR",
+            "message": "1. INTERCEPTED FISHING VESSEL \"LUCKY STAR\" IN PROTECTED MARINE RESERVE.",
+            "alert": 0,
+            "priority": "PRIORITY",
+            "coordinates": null,
+            "additional_info": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.No additional info"
+        },
+        {
+            "from": "NAVAL INTELLIGENCE FOXTROT",
+            "to": "FLEET COMMAND",
+            "dtg": "210500Z OCT 24",
+            "vessel_name": null,
+            "message": "1. INTERCEPTED COMMUNICATIONS SUGGEST POSSIBLE HOSTILE SUBMARINE ACTIVITY.",
+            "alert": 0,
+            "priority": "SECRET",
+            "coordinates": null,
+            "additional_info": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.No additional info"
+        },
+        {
+            "from": "LIGHTHOUSE KEEPER GULF",
+            "to": "NAVIGATION WARNING OFFICE",
+            "dtg": "210630Z OCT 24",
+            "vessel_name": null,
+            "message": "1. LIGHTHOUSE AT 13\u00c2\u00b005'N, 70\u00c2\u00b020'W UNDERGOING URGENT REPAIRS.",
+            "alert": 0,
+            "priority": "ROUTINE",
+            "coordinates": {
+                "latitude": "13\u00b005'N",
+                "longitude": "70\u00b020'W"
+            },
+            "additional_info": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.No additional info"
+        },
+        {
+            "from": "COAST GUARD CUTTER HOTEL",
+            "to": "MARITIME OPERATIONS CENTER",
+            "dtg": "210800Z OCT 24",
+            "vessel_name": null,
+            "message": "1. INTERCEPTED SUSPICIOUS VESSEL AT 13\u00c2\u00b015'N, 71\u00c2\u00b010'W.",
+            "alert": 1,
+            "priority": "IMMEDIATE",
+            "coordinates": {
+                "latitude": "13\u00b015'N",
+                "longitude": "71\u00b010'W"
+            },
+            "additional_info": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.Suspicious activity detected"
+        },
+        {
+            "from": "AIR TRAFFIC CONTROL INDIA",
+            "to": "ALL AIRCRAFT",
+            "dtg": "210930Z OCT 24",
+            "vessel_name": null,
+            "message": "1. TEMPORARY FLIGHT RESTRICTIONS IMPLEMENTED.",
+            "alert": 1,
+            "priority": "URGENT",
+            "coordinates": null,
+            "additional_info": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.No additional info"
+        },
+        {
+            "from": "UNDERWATER RESEARCH VESSEL JULIET",
+            "to": "OCEANOGRAPHIC INSTITUTE",
+            "dtg": "211100Z OCT 24",
+            "vessel_name": null,
+            "message": "1. DISCOVERED PREVIOUSLY UNKNOWN HYDROTHERMAL VENT FIELD.",
+            "alert": 0,
+            "priority": "ROUTINE",
+            "coordinates": null,
+            "additional_info": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.No additional info"
+        },
+        {
+            "from": "BORDER PATROL KILO",
+            "to": "CUSTOMS ENFORCEMENT",
+            "dtg": "211230Z OCT 24",
+            "vessel_name": null,
+            "message": "1. DETECTED FAST BOAT APPROACHING FROM INTERNATIONAL WATERS.",
+            "alert": 1,
+            "priority": "IMMEDIATE",
+            "coordinates": null,
+            "additional_info": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.No additional info"
+        },
+        {
+            "from": "MARITIME SECURITY LIMA",
+            "to": "ALL SHIPPING COMPANIES",
+            "dtg": "211400Z OCT 24",
+            "vessel_name": null,
+            "message": "1. PIRACY ALERT ISSUED FOR WATERS NEAR 13\u00c2\u00b000'N, 71\u00c2\u00b030'W.",
+            "alert": 1,
+            "priority": "URGENT",
+            "coordinates": {
+                "latitude": "13\u00b000'N",
+                "longitude": "71\u00b030'W"
+            },
+            "additional_info": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.Emergency alert or backup requested"
+        },
+        {
+            "from": "NAVAL TASK FORCE MIKE",
+            "to": "FLEET HEADQUARTERS",
+            "dtg": "211530Z OCT 24",
+            "vessel_name": null,
+            "message": "1. COMMENCED ANTI-SUBMARINE WARFARE EXERCISES.",
+            "alert": 0,
+            "priority": "CONFIDENTIAL",
+            "coordinates": null,
+            "additional_info": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.No additional info"
+        },
+        {
+            "from": "MARINE MAMMAL RESEARCH TEAM NOVEMBER",
+            "to": "WILDLIFE CONSERVATION OFFICE",
+            "dtg": "211700Z OCT 24",
+            "vessel_name": null,
+            "message": "1. OBSERVED LARGE POD OF HUMPBACK WHALES.",
+            "alert": 0,
+            "priority": "ROUTINE",
+            "coordinates": null,
+            "additional_info": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.No additional info"
+        },
+        {
+            "from": "COASTAL RADAR STATION OSCAR",
+            "to": "AIR DEFENSE COMMAND",
+            "dtg": "211830Z OCT 24",
+            "vessel_name": null,
+            "message": "1. UNIDENTIFIED AIRCRAFT DETECTED.",
+            "alert": 1,
+            "priority": "URGENT",
+            "coordinates": null,
+            "additional_info": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.No additional info"
+        },
+        {
+            "from": "UNDERWATER DEMOLITION TEAM PAPA",
+            "to": "NAVAL SPECIAL WARFARE COMMAND",
+            "dtg": "212000Z OCT 24",
+            "vessel_name": null,
+            "message": "1. COMPLETED PLACEMENT OF UNDERWATER SENSORS.",
+            "alert": 0,
+            "priority": "SECRET",
+            "coordinates": null,
+            "additional_info": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.No additional info"
+        },
+        {
+            "from": "METEOROLOGICAL STATION QUEBEC",
+            "to": "ALL MARITIME UNITS",
+            "dtg": "212130Z OCT 24",
+            "vessel_name": null,
+            "message": "1. SEVERE STORM WARNING ISSUED.",
+            "alert": 1,
+            "priority": "IMMEDIATE",
+            "coordinates": null,
+            "additional_info": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.No additional info"
+        },
+        {
+            "from": "MARITIME PATROL AIRCRAFT ROMEO",
+            "to": "SEARCH AND RESCUE COORDINATION CENTER",
+            "dtg": "212300Z OCT 24",
+            "vessel_name": "SERENITY",
+            "message": "1. LOCATED MISSING YACHT \"SERENITY\".",
+            "alert": 1,
+            "priority": "URGENT",
+            "coordinates": null,
+            "additional_info": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.No additional info"
+        },
+        {
+            "from": "SUBMARINE TENDER SIERRA",
+            "to": "FLEET LOGISTICS COMMAND",
+            "dtg": "220030Z OCT 24",
+            "vessel_name": null,
+            "message": "1. COMPLETED RESUPPLY OF SUBMARINE DELTA.",
+            "alert": 0,
+            "priority": "ROUTINE",
+            "coordinates": null,
+            "additional_info": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.No additional info"
+        },
+        {
+            "from": "ELECTRONIC WARFARE UNIT TANGO",
+            "to": "SIGNALS INTELLIGENCE HQ",
+            "dtg": "220200Z OCT 24",
+            "vessel_name": null,
+            "message": "1. DETECTED UNUSUAL ELECTROMAGNETIC EMISSIONS.",
+            "alert": 0,
+            "priority": "SECRET",
+            "coordinates": null,
+            "additional_info": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.No additional info"
+        },
+        {
+            "from": "COAST GUARD AUXILIARY UNIFORM",
+            "to": "SECTOR COMMAND",
+            "dtg": "220330Z OCT 24",
+            "vessel_name": null,
+            "message": "1. RESCUED 5 CREW MEMBERS FROM SINKING FISHING VESSEL.",
+            "alert": 1,
+            "priority": "IMMEDIATE",
+            "coordinates": null,
+            "additional_info": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.No additional info"
+        },
+        {
+            "from": "HYDROGRAPHIC SURVEY VESSEL VICTOR",
+            "to": "NAUTICAL CHARTING OFFICE",
+            "dtg": "220500Z OCT 24",
+            "vessel_name": null,
+            "message": "1. COMPLETED SURVEY OF SECTOR 7B.",
+            "alert": 0,
+            "priority": "ROUTINE",
+            "coordinates": null,
+            "additional_info": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.No additional info"
+        },
+        {
+            "from": "MARINE POLLUTION CONTROL WHISKEY",
+            "to": "ENVIRONMENTAL PROTECTION AGENCY",
+            "dtg": "220630Z OCT 24",
+            "vessel_name": null,
+            "message": "1. LARGE DEBRIS FIELD SPOTTED AT 12\u00c2\u00b035'N, 71\u00c2\u00b018'W.",
+            "alert": 1,
+            "priority": "URGENT",
+            "coordinates": {
+                "latitude": "12\u00b035'N",
+                "longitude": "71\u00b018'W"
+            },
+            "additional_info": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.No additional info"
+        },
+        {
+            "from": "NAVAL AIR STATION X-RAY",
+            "to": "FLEET AIR ARM",
+            "dtg": "220800Z OCT 24",
+            "vessel_name": null,
+            "message": "1. RUNWAY 27 CLOSED DUE TO DAMAGE FROM HEAVY STORM.",
+            "alert": 1,
+            "priority": "IMMEDIATE",
+            "coordinates": null,
+            "additional_info": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.No additional info"
+        },
+        {
+            "from": "MERCHANT VESSEL \"GLOBAL TRADER\"",
+            "to": "NEAREST COAST GUARD STATION",
+            "dtg": "220930Z OCT 24",
+            "vessel_name": null,
+            "message": "1. MAYDAY MAYDAY MAYDAY.",
+            "alert": 1,
+            "priority": "URGENT",
+            "coordinates": null,
+            "additional_info": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.No additional info"
+        },
+        {
+            "from": "UNDERWATER ACOUSTIC ARRAY YANKEE",
+            "to": "ANTI-SUBMARINE WARFARE COMMAND",
+            "dtg": "221100Z OCT 24",
+            "vessel_name": null,
+            "message": "1. DETECTED MULTIPLE UNDERSEA CONTACTS.",
+            "alert": 1,
+            "priority": "IMMEDIATE",
+            "coordinates": null,
+            "additional_info": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.No additional info"
+        },
+        {
+            "from": "MARITIME BORDER PATROL ZULU",
+            "to": "CUSTOMS ENFORCEMENT",
+            "dtg": "221230Z OCT 24",
+            "vessel_name": null,
+            "message": "1. INTERCEPTED SUSPICIOUS VESSEL AT 13\u00c2\u00b015'N, 70\u00c2\u00b040'W.",
+            "alert": 1,
+            "priority": "URGENT",
+            "coordinates": {
+                "latitude": "13\u00b015'N",
+                "longitude": "70\u00b040'W"
+            },
+            "additional_info": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.Suspicious activity detected"
+        },
+        {
+            "from": "OCEANOGRAPHIC RESEARCH VESSEL ALPHA",
+            "to": "MARINE SCIENCE INSTITUTE",
+            "dtg": "221400Z OCT 24",
+            "vessel_name": null,
+            "message": "1. DISCOVERED UNUSUAL CORAL FORMATION AT 12\u00c2\u00b045'N, 71\u00c2\u00b020'W.",
+            "alert": 0,
+            "priority": "ROUTINE",
+            "coordinates": {
+                "latitude": "12\u00b045'N",
+                "longitude": "71\u00b020'W"
+            },
+            "additional_info": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.No additional info"
+        },
+        {
+            "from": "COASTAL DEFENSE BATTERY BRAVO",
+            "to": "NAVAL SHORE COMMAND",
+            "dtg": "221530Z OCT 24",
+            "vessel_name": null,
+            "message": "1. UNIDENTIFIED SURFACE CONTACTS APPROACHING TERRITORIAL WATERS.",
+            "alert": 1,
+            "priority": "IMMEDIATE",
+            "coordinates": null,
+            "additional_info": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.No additional info"
+        },
+        {
+            "from": "DEEP SEA MINING VESSEL CHARLIE",
+            "to": "OFFSHORE RESOURCES AUTHORITY",
+            "dtg": "221700Z OCT 24",
+            "vessel_name": null,
+            "message": "1. COMMENCED OPERATIONS AT DESIGNATED SITE DELTA-7.",
+            "alert": 0,
+            "priority": "ROUTINE",
+            "coordinates": null,
+            "additional_info": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.No additional info"
+        },
+        {
+            "from": "MARITIME PATROL AIRCRAFT DELTA",
+            "to": "AIR OPERATIONS CENTER",
+            "dtg": "221830Z OCT 24",
+            "vessel_name": null,
+            "message": "1. SPOTTED LARGE OIL SLICK AT 13\u00c2\u00b010'N, 70\u00c2\u00b050'W.",
+            "alert": 1,
+            "priority": "URGENT",
+            "coordinates": {
+                "latitude": "13\u00b010'N",
+                "longitude": "70\u00b050'W"
+            },
+            "additional_info": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.No additional info"
+        },
+        {
+            "from": "SUBMARINE ECHO",
+            "to": "SUBMARINE FLOTILLA COMMAND",
+            "dtg": "222000Z OCT 24",
+            "vessel_name": null,
+            "message": "1. COMPLETED COVERT SURVEILLANCE OF SECTOR 9.",
+            "alert": 0,
+            "priority": "CONFIDENTIAL",
+            "coordinates": null,
+            "additional_info": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.No additional info"
+        },
+        {
+            "from": "MARINE SANCTUARY WARDEN FOXTROT",
+            "to": "WILDLIFE PROTECTION AGENCY",
+            "dtg": "222130Z OCT 24",
+            "vessel_name": null,
+            "message": "1. MULTIPLE VESSELS ILLEGALLY FISHING IN PROTECTED WATERS.",
+            "alert": 1,
+            "priority": "IMMEDIATE",
+            "coordinates": null,
+            "additional_info": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.No suspicious activity"
+        },
+        {
+            "from": "COAST GUARD CUTTER GOLF",
+            "to": "MARITIME RESCUE COORDINATION CENTER",
+            "dtg": "222300Z OCT 24",
+            "vessel_name": "SEABREEZE",
+            "message": "1. RESPONDED TO DISTRESS CALL FROM YACHT \"SEABREEZE\".",
+            "alert": 1,
+            "priority": "URGENT",
+            "coordinates": null,
+            "additional_info": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.No additional info"
+        },
+        {
+            "from": "NAVAL INTELLIGENCE HOTEL",
+            "to": "FLEET COMMAND",
+            "dtg": "230030Z OCT 24",
+            "vessel_name": null,
+            "message": "1. INTERCEPTED ENCRYPTED COMMUNICATIONS FROM UNKNOWN SOURCE.",
+            "alert": 0,
+            "priority": "SECRET",
+            "coordinates": null,
+            "additional_info": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.No additional info"
+        },
+        {
+            "from": "OFFSHORE WIND FARM INDIA",
+            "to": "COASTAL ENERGY AUTHORITY",
+            "dtg": "230200Z OCT 24",
+            "vessel_name": null,
+            "message": "1. COMPLETED INSTALLATION OF NEW TURBINE ARRAY.",
+            "alert": 0,
+            "priority": "ROUTINE",
+            "coordinates": null,
+            "additional_info": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.No additional info"
+        },
+        {
+            "from": "MARITIME SURVEILLANCE DRONE JULIET",
+            "to": "COASTAL SECURITY COMMAND",
+            "dtg": "230330Z OCT 24",
+            "vessel_name": null,
+            "message": "1. DETECTED UNAUTHORIZED DATA TRANSMISSION FROM OCEAN BUOY.",
+            "alert": 1,
+            "priority": "IMMEDIATE",
+            "coordinates": null,
+            "additional_info": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.No additional info"
+        },
+        {
+            "from": "LIGHTHOUSE KEEPER KILO",
+            "to": "MARITIME SAFETY OFFICE",
+            "dtg": "230500Z OCT 24",
+            "vessel_name": null,
+            "message": "1. MAIN LIGHT MECHANISM FAILURE AT POINT NEBULA LIGHTHOUSE.",
+            "alert": 1,
+            "priority": "URGENT",
+            "coordinates": null,
+            "additional_info": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.No additional info"
+        },
+        {
+            "from": "MARINE GEOLOGY SURVEY LIMA",
+            "to": "EARTHQUAKE MONITORING CENTER",
+            "dtg": "230630Z OCT 24",
+            "vessel_name": null,
+            "message": "1. DETECTED SERIES OF UNDERWATER SEISMIC EVENTS.",
+            "alert": 1,
+            "priority": "IMMEDIATE",
+            "coordinates": null,
+            "additional_info": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.No additional info"
+        },
+        {
+            "from": "NAVAL TASK FORCE MIKE",
+            "to": "FLEET HEADQUARTERS",
+            "dtg": "230800Z OCT 24",
+            "vessel_name": null,
+            "message": "1. COMPLETED LARGE-SCALE NAVAL EXERCISE IN SECTOR 12.",
+            "alert": 0,
+            "priority": "CONFIDENTIAL",
+            "coordinates": null,
+            "additional_info": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.No additional info"
+        },
+        {
+            "from": "FISHERIES PROTECTION VESSEL NOVEMBER",
+            "to": "DEPARTMENT OF MARINE RESOURCES",
+            "dtg": "230930Z OCT 24",
+            "vessel_name": null,
+            "message": "1. INTERCEPTED LARGE TRAWLER VIOLATING FISHING REGULATIONS.",
+            "alert": 1,
+            "priority": "URGENT",
+            "coordinates": null,
+            "additional_info": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.No additional info"
+        },
+        {
+            "from": "UNDERWATER ARCHAEOLOGY TEAM OSCAR",
+            "to": "NATIONAL MARITIME MUSEUM",
+            "dtg": "231100Z OCT 24",
+            "vessel_name": null,
+            "message": "1. DISCOVERED WRECK OF 18TH CENTURY MERCHANT SHIP.",
+            "alert": 0,
+            "priority": "ROUTINE",
+            "coordinates": null,
+            "additional_info": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.No additional info"
+        },
+        {
+            "from": "COAST GUARD PATROL PAPA",
+            "to": "MARITIME BORDER CONTROL",
+            "dtg": "231230Z OCT 24",
+            "vessel_name": null,
+            "message": "1. INTERCEPTED SUSPICIOUS FAST BOAT AT 13\u00c2\u00b040'N, 70\u00c2\u00b050'W.",
+            "alert": 1,
+            "priority": "IMMEDIATE",
+            "coordinates": {
+                "latitude": "13\u00b040'N",
+                "longitude": "70\u00b050'W"
+            },
+            "additional_info": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.Suspicious activity detected"
+        },
+        {
+            "from": "MARINE TRAFFIC CONTROL QUEBEC",
+            "to": "ALL VESSELS IN SECTOR 14",
+            "dtg": "231400Z OCT 24",
+            "vessel_name": null,
+            "message": "1. HAZARDOUS MATERIAL SPILL REPORTED IN SHIPPING LANE.",
+            "alert": 1,
+            "priority": "URGENT",
+            "coordinates": null,
+            "additional_info": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.No additional info"
+        },
+        {
+            "from": "NAVAL AIR SQUADRON ROMEO",
+            "to": "CARRIER STRIKE GROUP COMMAND",
+            "dtg": "231530Z OCT 24",
+            "vessel_name": null,
+            "message": "1. COMPLETED RECONNAISSANCE FLIGHT OVER DISPUTED WATERS.",
+            "alert": 0,
+            "priority": "CONFIDENTIAL",
+            "coordinates": null,
+            "additional_info": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.No additional info"
+        },
+        {
+            "from": "UNDERWATER SENSOR NETWORK SIERRA",
+            "to": "ANTISUBMARINE WARFARE CENTER",
+            "dtg": "231700Z OCT 24",
+            "vessel_name": null,
+            "message": "1. DETECTED ANOMALOUS ACOUSTIC SIGNATURE AT 12\u00c2\u00b040'N, 70\u00c2\u00b055'W.",
+            "alert": 1,
+            "priority": "IMMEDIATE",
+            "coordinates": {
+                "latitude": "12\u00b040'N",
+                "longitude": "70\u00b055'W"
+            },
+            "additional_info": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.No additional info"
+        },
+        {
+            "from": "MARITIME SECURITY CONTRACTOR TANGO",
+            "to": "MERCHANT SHIPPING ASSOCIATION",
+            "dtg": "231830Z OCT 24",
+            "vessel_name": "GLOBAL EXPRESS",
+            "message": "1. PIRACY ATTEMPT THWARTED ON CONTAINER SHIP \"GLOBAL EXPRESS\".",
+            "alert": 1,
+            "priority": "URGENT",
+            "coordinates": null,
+            "additional_info": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.No additional info"
+        },
+        {
+            "from": "DEEP SEA EXPLORATION VESSEL UNIFORM",
+            "to": "OCEANOGRAPHIC RESEARCH INSTITUTE",
+            "dtg": "232000Z OCT 24",
+            "vessel_name": null,
+            "message": "1. DISCOVERED UNIQUE HYDROTHERMAL VENT ECOSYSTEM AT 12\u00c2\u00b035'N, 71\u00c2\u00b025'W.",
+            "alert": 0,
+            "priority": "ROUTINE",
+            "coordinates": {
+                "latitude": "12\u00b035'N",
+                "longitude": "71\u00b025'W"
+            },
+            "additional_info": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.No additional info"
+        },
+        {
+            "from": "COASTAL RADAR STATION VICTOR",
+            "to": "AIR DEFENSE COMMAND",
+            "dtg": "232130Z OCT 24",
+            "vessel_name": null,
+            "message": "1. DETECTED UNIDENTIFIED AERIAL OBJECT AT 13\u00c2\u00b050'N, 70\u00c2\u00b040'W.",
+            "alert": 1,
+            "priority": "URGENT",
+            "coordinates": {
+                "latitude": "13\u00b050'N",
+                "longitude": "70\u00b040'W"
+            },
+            "additional_info": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.No additional info"
+        },
+        {
+            "from": "MARINE MAMMAL RESCUE TEAM WHISKEY",
+            "to": "WILDLIFE CONSERVATION AGENCY",
+            "dtg": "232300Z OCT 24",
+            "vessel_name": null,
+            "message": "1. MASS STRANDING EVENT IN PROGRESS AT CRESCENT BAY.",
+            "alert": 1,
+            "priority": "IMMEDIATE",
+            "coordinates": null,
+            "additional_info": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.No additional info"
+        },
+        {
+            "from": "OFFSHORE OIL PLATFORM X-RAY",
+            "to": "COASTAL EMERGENCY SERVICES",
+            "dtg": "240030Z OCT 24",
+            "vessel_name": null,
+            "message": "1. EXPLOSION REPORTED ON DRILLING DECK.",
+            "alert": 1,
+            "priority": "URGENT",
+            "coordinates": null,
+            "additional_info": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.No additional info"
+        },
+        {
+            "from": "NAVAL SPECIAL OPERATIONS YANKEE",
+            "to": "JOINT TASK FORCE COMMAND",
+            "dtg": "240200Z OCT 24",
+            "vessel_name": null,
+            "message": "1. COVERT INSERTION COMPLETED AT OBJECTIVE FALCON.",
+            "alert": 0,
+            "priority": "TOP SECRET",
+            "coordinates": null,
+            "additional_info": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.No additional info"
+        },
+        {
+            "from": "METEOROLOGICAL BUOY NETWORK ZULU",
+            "to": "WEATHER FORECASTING CENTER",
+            "dtg": "240330Z OCT 24",
+            "vessel_name": null,
+            "message": "1. SUDDEN PRESSURE DROP DETECTED ACROSS MULTIPLE BUOYS.",
+            "alert": 1,
+            "priority": "IMMEDIATE",
+            "coordinates": null,
+            "additional_info": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.No additional info"
+        },
+        {
+            "from": "SUBMARINE TENDER ALPHA",
+            "to": "SUBMARINE FLOTILLA COMMAND",
+            "dtg": "240500Z OCT 24",
+            "vessel_name": null,
+            "message": "1. COMPLETED RESUPPLY OPERATION WITH SSN BARRACUDA.",
+            "alert": 0,
+            "priority": "CONFIDENTIAL",
+            "coordinates": null,
+            "additional_info": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.No additional info"
+        },
+        {
+            "from": "MARINE POLLUTION CONTROL BRAVO",
+            "to": "ENVIRONMENTAL PROTECTION AGENCY",
+            "dtg": "240630Z OCT 24",
+            "vessel_name": null,
+            "message": "1. DETECTED LARGE TOXIC ALGAL BLOOM FORMING.",
+            "alert": 1,
+            "priority": "URGENT",
+            "coordinates": null,
+            "additional_info": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.No additional info"
+        },
+        {
+            "from": "COAST GUARD AERIAL PATROL CHARLIE",
+            "to": "SEARCH AND RESCUE COORDINATION CENTER",
+            "dtg": "240800Z OCT 24",
+            "vessel_name": null,
+            "message": "1. SPOTTED DEBRIS FIELD AT 13\u00c2\u00b040'N, 70\u00c2\u00b050'W.",
+            "alert": 1,
+            "priority": "IMMEDIATE",
+            "coordinates": {
+                "latitude": "13\u00b040'N",
+                "longitude": "70\u00b050'W"
+            },
+            "additional_info": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.No additional info"
+        },
+        {
+            "from": "HYDROGRAPHIC SURVEY VESSEL DELTA",
+            "to": "NAVAL CARTOGRAPHY OFFICE",
+            "dtg": "240930Z OCT 24",
+            "vessel_name": null,
+            "message": "1. COMPLETED HIGH-RESOLUTION MAPPING OF SEAFLOOR IN SECTOR 17.",
+            "alert": 0,
+            "priority": "ROUTINE",
+            "coordinates": null,
+            "additional_info": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.No additional info"
+        },
+        {
+            "from": "ELECTRONIC INTELLIGENCE SHIP ECHO",
+            "to": "SIGNALS INTELLIGENCE HEADQUARTERS",
+            "dtg": "241100Z OCT 24",
+            "vessel_name": null,
+            "message": "1. INTERCEPTED ENCRYPTED TRANSMISSIONS FROM UNKNOWN VESSEL.",
+            "alert": 0,
+            "priority": "SECRET",
+            "coordinates": null,
+            "additional_info": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.No additional info"
+        },
+        {
+            "from": "MARINE SANCTUARY WARDEN FOXTROT",
+            "to": "FISHERIES MANAGEMENT AUTHORITY",
+            "dtg": "241230Z OCT 24",
+            "vessel_name": null,
+            "message": "1. MASSIVE FISH DIE-OFF OBSERVED IN PROTECTED WATERS.",
+            "alert": 1,
+            "priority": "URGENT",
+            "coordinates": null,
+            "additional_info": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.No additional info"
+        },
+        {
+            "from": "AUTONOMOUS UNDERWATER VEHICLE GOLF",
+            "to": "DEEP SEA MINING CONSORTIUM",
+            "dtg": "241400Z OCT 24",
+            "vessel_name": null,
+            "message": "1. COMPLETED SURVEY OF POTENTIAL MINING SITE BRAVO.",
+            "alert": 0,
+            "priority": "ROUTINE",
+            "coordinates": null,
+            "additional_info": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.No additional info"
+        },
+        {
+            "from": "MARITIME BORDER PATROL HOTEL",
+            "to": "CUSTOMS AND IMMIGRATION ENFORCEMENT",
+            "dtg": "241530Z OCT 24",
+            "vessel_name": null,
+            "message": "1. INTERCEPTED VESSEL SUSPECTED OF HUMAN TRAFFICKING.",
+            "alert": 1,
+            "priority": "IMMEDIATE",
+            "coordinates": null,
+            "additional_info": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.No additional info"
+        },
+        {
+            "from": "TSUNAMI WARNING CENTER INDIA",
+            "to": "ALL COASTAL AUTHORITIES",
+            "dtg": "241700Z OCT 24",
+            "vessel_name": null,
+            "message": "1. STRONG EARTHQUAKE DETECTED, MAGNITUDE 7.8.",
+            "alert": 1,
+            "priority": "URGENT",
+            "coordinates": null,
+            "additional_info": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.No additional info"
+        },
+        {
+            "from": "NAVAL AIR STATION JULIET",
+            "to": "FLEET AIR ARM COMMAND",
+            "dtg": "241830Z OCT 24",
+            "vessel_name": null,
+            "message": "1. UNIDENTIFIED SUBMARINE PERISCOPE SIGHTED NEAR BASE PERIMETER.",
+            "alert": 1,
+            "priority": "IMMEDIATE",
+            "coordinates": null,
+            "additional_info": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.No additional info"
+        },
+        {
+            "from": "OFFSHORE WIND FARM KILO",
+            "to": "COASTAL ENERGY AUTHORITY",
+            "dtg": "242000Z OCT 24",
+            "vessel_name": null,
+            "message": "1. ABNORMAL READINGS FROM TURBINE CLUSTER 7.",
+            "alert": 0,
+            "priority": "ROUTINE",
+            "coordinates": null,
+            "additional_info": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.No additional info"
+        },
+        {
+            "from": "MARINE ARCHAEOLOGIST TEAM LIMA",
+            "to": "HISTORICAL PRESERVATION OFFICE",
+            "dtg": "242130Z OCT 24",
+            "vessel_name": null,
+            "message": "1. DISCOVERED INTACT ANCIENT SHIPWRECK AT 13\u00c2\u00b030'N, 71\u00c2\u00b020'W.",
+            "alert": 1,
+            "priority": "IMMEDIATE",
+            "coordinates": {
+                "latitude": "13\u00b030'N",
+                "longitude": "71\u00b020'W"
+            },
+            "additional_info": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.No additional info"
+        },
+        {
+            "from": "COAST GUARD CUTTER MIKE",
+            "to": "MARITIME RESCUE COORDINATION CENTER",
+            "dtg": "242300Z OCT 24",
+            "vessel_name": "OCEANIC DREAM",
+            "message": "1. RESPONDING TO DISTRESS CALL FROM CRUISE SHIP \"OCEANIC DREAM\".",
+            "alert": 1,
+            "priority": "URGENT",
+            "coordinates": null,
+            "additional_info": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.No additional info"
+        },
+        {
+            "from": "UNDERWATER ACOUSTIC ARRAY NOVEMBER",
+            "to": "NAVAL INTELLIGENCE CENTER",
+            "dtg": "250030Z OCT 24",
+            "vessel_name": null,
+            "message": "1. DETECTED UNUSUAL SEISMIC ACTIVITY AT 12\u00c2\u00b055'N, 71\u00c2\u00b040'W.",
+            "alert": 0,
+            "priority": "CONFIDENTIAL",
+            "coordinates": {
+                "latitude": "12\u00b055'N",
+                "longitude": "71\u00b040'W"
+            },
+            "additional_info": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.No additional info"
+        },
+        {
+            "from": "FISHERIES RESEARCH VESSEL OSCAR",
+            "to": "MARINE BIOLOGY INSTITUTE",
+            "dtg": "250200Z OCT 24",
+            "vessel_name": null,
+            "message": "1. OBSERVED UNPRECEDENTED GATHERING OF VARIOUS MARINE SPECIES.",
+            "alert": 0,
+            "priority": "ROUTINE",
+            "coordinates": null,
+            "additional_info": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.No additional info"
+        },
+        {
+            "from": "COASTAL DEFENSE BATTERY PAPA",
+            "to": "NAVAL SHORE COMMAND",
+            "dtg": "250330Z OCT 24",
+            "vessel_name": null,
+            "message": "1. RADAR CONTACT WITH FAST-MOVING, LOW-FLYING OBJECT.",
+            "alert": 1,
+            "priority": "IMMEDIATE",
+            "coordinates": null,
+            "additional_info": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.No additional info"
+        },
+        {
+            "from": "MARINE TRAFFIC CONTROL QUEBEC",
+            "to": "ALL VESSELS IN SECTOR 23",
+            "dtg": "250500Z OCT 24",
+            "vessel_name": null,
+            "message": "1. ROGUE WAVE REPORTED BY MULTIPLE VESSELS.",
+            "alert": 1,
+            "priority": "URGENT",
+            "coordinates": null,
+            "additional_info": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.No additional info"
+        },
+        {
+            "from": "UNDERWATER DEMOLITION TEAM ROMEO",
+            "to": "SPECIAL OPERATIONS COMMAND",
+            "dtg": "250630Z OCT 24",
+            "vessel_name": null,
+            "message": "1. SUCCESSFULLY NEUTRALIZED UNDERWATER LISTENING DEVICE.",
+            "alert": 0,
+            "priority": "SECRET",
+            "coordinates": null,
+            "additional_info": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.No additional info"
+        },
+        {
+            "from": "ENVIRONMENTAL MONITORING SATELLITE SIERRA",
+            "to": "CLIMATE RESEARCH CENTER",
+            "dtg": "250800Z OCT 24",
+            "vessel_name": null,
+            "message": "1. DETECTED MASSIVE METHANE RELEASE EVENT.",
+            "alert": 1,
+            "priority": "IMMEDIATE",
+            "coordinates": null,
+            "additional_info": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.No additional info"
+        },
+        {
+            "from": "DEEP-SEA MINING VESSEL TANGO",
+            "to": "INTERNATIONAL SEABED AUTHORITY",
+            "dtg": "250930Z OCT 24",
+            "vessel_name": null,
+            "message": "1. ENCOUNTERED UNEXPECTED GEOLOGICAL FORMATION AT MINING SITE.",
+            "alert": 1,
+            "priority": "URGENT",
+            "coordinates": null,
+            "additional_info": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.No additional info"
+        },
+        {
+            "from": "COAST GUARD PATROL UNIFORM",
+            "to": "MARITIME BORDER CONTROL",
+            "dtg": "251100Z OCT 24",
+            "vessel_name": null,
+            "message": "1. INTERCEPTED SUSPICIOUS VESSEL AT 13\u00c2\u00b020'N, 70\u00c2\u00b030'W.",
+            "alert": 1,
+            "priority": "IMMEDIATE",
+            "coordinates": {
+                "latitude": "13\u00b020'N",
+                "longitude": "70\u00b030'W"
+            },
+            "additional_info": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.Suspicious activity detected"
+        },
+        {
+            "from": "MARINE MAMMAL RESEARCH TEAM VICTOR",
+            "to": "OCEANIC SOUND MONITORING PROJECT",
+            "dtg": "251230Z OCT 24",
+            "vessel_name": null,
+            "message": "1. RECORDED UNUSUAL WHALE VOCALIZATIONS IN SECTOR 8.",
+            "alert": 0,
+            "priority": "ROUTINE",
+            "coordinates": null,
+            "additional_info": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.No additional info"
+        },
+        {
+            "from": "NAVAL TASK FORCE WHISKEY",
+            "to": "FLEET COMMAND",
+            "dtg": "251400Z OCT 24",
+            "vessel_name": null,
+            "message": "1. COMPLETED SWEEP OF SUSPECTED HOSTILE SUBMARINE ACTIVITY AREA.",
+            "alert": 0,
+            "priority": "CONFIDENTIAL",
+            "coordinates": null,
+            "additional_info": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.No additional info"
+        },
+        {
+            "from": "OFFSHORE PLATFORM X-RAY",
+            "to": "ENERGY REGULATORY COMMISSION",
+            "dtg": "251530Z OCT 24",
+            "vessel_name": null,
+            "message": "1. EXPERIENCING UNEXPECTED PRESSURE BUILDUP IN WELL 7.",
+            "alert": 1,
+            "priority": "URGENT",
+            "coordinates": null,
+            "additional_info": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.No additional info"
+        },
+        {
+            "from": "HURRICANE HUNTER AIRCRAFT YANKEE",
+            "to": "NATIONAL WEATHER SERVICE",
+            "dtg": "251700Z OCT 24",
+            "vessel_name": null,
+            "message": "1. INVESTIGATED TROPICAL DISTURBANCE AT 14\u00c2\u00b000'N, 72\u00c2\u00b000'W.",
+            "alert": 1,
+            "priority": "IMMEDIATE",
+            "coordinates": {
+                "latitude": "14\u00b000'N",
+                "longitude": "72\u00b000'W"
+            },
+            "additional_info": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.No additional info"
+        },
+        {
+            "from": "SUBMARINE ZULU",
+            "to": "SUBMARINE FORCE COMMAND",
+            "dtg": "251830Z OCT 24",
+            "vessel_name": null,
+            "message": "1. OBSERVED UNIDENTIFIED UNDERWATER VEHICLE AT 12\u00c2\u00b040'N, 71\u00c2\u00b005'W.",
+            "alert": 0,
+            "priority": "SECRET",
+            "coordinates": {
+                "latitude": "12\u00b040'N",
+                "longitude": "71\u00b005'W"
+            },
+            "additional_info": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.No additional info"
+        },
+        {
+            "from": "MARINE POLLUTION CONTROL ALPHA",
+            "to": "ENVIRONMENTAL PROTECTION AGENCY",
+            "dtg": "252000Z OCT 24",
+            "vessel_name": null,
+            "message": "1. DETECTED LARGE-SCALE CHEMICAL SPILL AT 13\u00c2\u00b015'N, 70\u00c2\u00b050'W.",
+            "alert": 1,
+            "priority": "URGENT",
+            "coordinates": {
+                "latitude": "13\u00b015'N",
+                "longitude": "70\u00b050'W"
+            },
+            "additional_info": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.No additional info"
+        },
+        {
+            "from": "COASTAL RADAR STATION BRAVO",
+            "to": "AIR DEFENSE COMMAND",
+            "dtg": "252130Z OCT 24",
+            "vessel_name": null,
+            "message": "1. TRACKED FORMATION OF UNIDENTIFIED AIRCRAFT ENTERING RESTRICTED AIRSPACE.",
+            "alert": 1,
+            "priority": "IMMEDIATE",
+            "coordinates": null,
+            "additional_info": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.No additional info"
+        },
+        {
+            "from": "DEEP SEA EXPLORATION VESSEL CHARLIE",
+            "to": "OCEANOGRAPHIC RESEARCH INSTITUTE",
+            "dtg": "252300Z OCT 24",
+            "vessel_name": null,
+            "message": "1. DISCOVERED UNIQUE BIOLUMINESCENT PHENOMENON AT 12\u00c2\u00b055'N, 71\u00c2\u00b030'W.",
+            "alert": 0,
+            "priority": "ROUTINE",
+            "coordinates": {
+                "latitude": "12\u00b055'N",
+                "longitude": "71\u00b030'W"
+            },
+            "additional_info": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.No additional info"
+        },
+        {
+            "from": "MARITIME SECURITY TEAM DELTA",
+            "to": "PORT AUTHORITY",
+            "dtg": "260030Z OCT 24",
+            "vessel_name": null,
+            "message": "1. SUSPICIOUS PACKAGE DETECTED DURING ROUTINE SCAN OF INCOMING CARGO.",
+            "alert": 1,
+            "priority": "URGENT",
+            "coordinates": null,
+            "additional_info": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.No suspicious activity"
+        },
+        {
+            "from": "FISHERIES PATROL VESSEL ECHO",
+            "to": "MARINE RESOURCES MANAGEMENT",
+            "dtg": "260200Z OCT 24",
+            "vessel_name": null,
+            "message": "1. ENCOUNTERED MASSIVE SCHOOL OF UNIDENTIFIED FISH SPECIES.",
+            "alert": 1,
+            "priority": "IMMEDIATE",
+            "coordinates": null,
+            "additional_info": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.No additional info"
+        },
+        {
+            "from": "NAVAL INTELLIGENCE FOXTROT",
+            "to": "CYBERWARFARE COMMAND",
+            "dtg": "260330Z OCT 24",
+            "vessel_name": null,
+            "message": "1. DETECTED SOPHISTICATED CYBER ATTACK ON NAVAL COMMUNICATIONS NETWORK.",
+            "alert": 0,
+            "priority": "SECRET",
+            "coordinates": null,
+            "additional_info": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.No additional info"
+        },
+        {
+            "from": "COAST GUARD CUTTER GOLF",
+            "to": "SEARCH AND RESCUE COORDINATION CENTER",
+            "dtg": "260500Z OCT 24",
+            "vessel_name": "SEA SPIRIT",
+            "message": "1. RESPONDING TO DISTRESS SIGNAL FROM PRIVATE YACHT \"SEA SPIRIT\".",
+            "alert": 1,
+            "priority": "URGENT",
+            "coordinates": null,
+            "additional_info": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.No additional info"
+        },
+        {
+            "from": "UNDERWATER ACOUSTIC ARRAY HOTEL",
+            "to": "SEISMOLOGICAL MONITORING CENTER",
+            "dtg": "260630Z OCT 24",
+            "vessel_name": null,
+            "message": "1. DETECTED SERIES OF UNDERWATER EXPLOSIONS.",
+            "alert": 1,
+            "priority": "IMMEDIATE",
+            "coordinates": null,
+            "additional_info": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.No additional info"
+        },
+        {
+            "from": "MARINE SANCTUARY WARDEN INDIA",
+            "to": "WILDLIFE PROTECTION AGENCY",
+            "dtg": "260800Z OCT 24",
+            "vessel_name": null,
+            "message": "1. OBSERVED MASS DIE-OFF OF CORAL IN PROTECTED REEF.",
+            "alert": 1,
+            "priority": "URGENT",
+            "coordinates": null,
+            "additional_info": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.No additional info"
+        },
+        {
+            "from": "AUTONOMOUS UNDERWATER VEHICLE JULIET",
+            "to": "DEEP SEA MINING CONSORTIUM",
+            "dtg": "260930Z OCT 24",
+            "vessel_name": null,
+            "message": "1. COMPLETED SURVEY OF POTENTIAL MINING SITE DELTA.",
+            "alert": 0,
+            "priority": "ROUTINE",
+            "coordinates": null,
+            "additional_info": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.No additional info"
+        },
+        {
+            "from": "METEOROLOGICAL BUOY NETWORK KILO",
+            "to": "HURRICANE TRACKING CENTER",
+            "dtg": "261100Z OCT 24",
+            "vessel_name": null,
+            "message": "1. RECORDING EXTREME WEATHER CONDITIONS IN SECTOR 6.",
+            "alert": 1,
+            "priority": "IMMEDIATE",
+            "coordinates": null,
+            "additional_info": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.No additional info"
+        },
+        {
+            "from": "SUBMARINE TENDER LIMA",
+            "to": "FLEET LOGISTICS COMMAND",
+            "dtg": "261230Z OCT 24",
+            "vessel_name": null,
+            "message": "1. COMPLETED COVERT RESUPPLY OF SSN BARRACUDA.",
+            "alert": 0,
+            "priority": "CONFIDENTIAL",
+            "coordinates": null,
+            "additional_info": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.No additional info"
+        },
+        {
+            "from": "COASTAL DEFENSE BATTERY MIKE",
+            "to": "NAVAL SHORE COMMAND",
+            "dtg": "261400Z OCT 24",
+            "vessel_name": null,
+            "message": "1. UNIDENTIFIED SURFACE VESSELS APPROACHING TERRITORIAL WATERS.",
+            "alert": 1,
+            "priority": "URGENT",
+            "coordinates": null,
+            "additional_info": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.No additional info"
+        },
+        {
+            "from": "MARINE GEOLOGY SURVEY NOVEMBER",
+            "to": "TECTONIC RESEARCH CENTER",
+            "dtg": "261530Z OCT 24",
+            "vessel_name": null,
+            "message": "1. DETECTED SIGNIFICANT SEISMIC ACTIVITY AT 13\u00c2\u00b015'N, 71\u00c2\u00b025'W.",
+            "alert": 1,
+            "priority": "IMMEDIATE",
+            "coordinates": {
+                "latitude": "13\u00b015'N",
+                "longitude": "71\u00b025'W"
+            },
+            "additional_info": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.No additional info"
+        },
+        {
+            "from": "ELECTRONIC WARFARE SHIP OSCAR",
+            "to": "NAVAL INTELLIGENCE CENTER",
+            "dtg": "261700Z OCT 24",
+            "vessel_name": null,
+            "message": "1. INTERCEPTED ENCRYPTED TRANSMISSIONS FROM UNKNOWN SOURCE.",
+            "alert": 0,
+            "priority": "SECRET",
+            "coordinates": null,
+            "additional_info": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.No additional info"
+        },
+        {
+            "from": "OFFSHORE WIND FARM PAPA",
+            "to": "COASTAL ENERGY AUTHORITY",
+            "dtg": "261830Z OCT 24",
+            "vessel_name": null,
+            "message": "1. EXPERIENCING CATASTROPHIC FAILURE OF MULTIPLE TURBINES.",
+            "alert": 1,
+            "priority": "URGENT",
+            "coordinates": null,
+            "additional_info": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.No additional info"
+        },
+        {
+            "from": "DEEP SEA RESEARCH SUBMERSIBLE QUEBEC",
+            "to": "MARINE BIOLOGY INSTITUTE",
+            "dtg": "262000Z OCT 24",
+            "vessel_name": null,
+            "message": "1. DISCOVERED UNKNOWN SPECIES OF GIANT SQUID.",
+            "alert": 0,
+            "priority": "ROUTINE",
+            "coordinates": null,
+            "additional_info": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.No additional info"
+        },
+        {
+            "from": "NAVAL AIR PATROL ROMEO",
+            "to": "MARITIME OPERATIONS CENTER",
+            "dtg": "262130Z OCT 24",
+            "vessel_name": null,
+            "message": "1. SPOTTED LARGE DEBRIS FIELD AT 13\u00c2\u00b050'N, 71\u00c2\u00b005'W.",
+            "alert": 1,
+            "priority": "IMMEDIATE",
+            "coordinates": {
+                "latitude": "13\u00b050'N",
+                "longitude": "71\u00b005'W"
+            },
+            "additional_info": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.No additional info"
+        },
+        {
+            "from": "PATROL BOAT BRAVO",
+            "to": "COMMAND CENTER",
+            "dtg": "201700Z OCT 24",
+            "vessel_name": null,
+            "message": "1. DETECTED SUBMARINE PERISCOPE AT 13\u00c2\u00b045'N, 71\u00c2\u00b023'W AT 1645Z.",
+            "alert": 1,
+            "priority": "URGENT",
+            "coordinates": {
+                "latitude": "13\u00b045'N",
+                "longitude": "71\u00b023'W"
+            },
+            "additional_info": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.No additional info"
+        },
+        {
+            "from": "COASTAL STATION ALPHA",
+            "to": "ALL UNITS",
+            "dtg": "211030Z OCT 24",
+            "vessel_name": null,
+            "message": "1. WEATHER ADVISORY: TROPICAL STORM APPROACHING.",
+            "alert": 0,
+            "priority": "ROUTINE",
+            "coordinates": null,
+            "additional_info": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.No additional info"
+        },
+        {
+            "from": "AIR PATROL CHARLIE",
+            "to": "COMMAND CENTER",
+            "dtg": "221545Z OCT 24",
+            "vessel_name": null,
+            "message": "1. SPOTTED VESSEL MATCHING DESCRIPTION OF WANTED SMUGGLING SHIP.",
+            "alert": 1,
+            "priority": "IMMEDIATE",
+            "coordinates": null,
+            "additional_info": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.Suspicious activity detected"
+        },
+        {
+            "from": "SUBMARINE DELTA",
+            "to": "FLEET COMMAND",
+            "dtg": "231200Z OCT 24",
+            "vessel_name": null,
+            "message": "1. COMPLETED UNDERWATER MAPPING OF SECTOR 4.",
+            "alert": 0,
+            "priority": "CONFIDENTIAL",
+            "coordinates": null,
+            "additional_info": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.No additional info"
+        },
+        {
+            "from": "PORT AUTHORITY XAVIER",
+            "to": "ALL MARITIME UNITS",
+            "dtg": "241400Z OCT 24",
+            "vessel_name": null,
+            "message": "1. PORT CLOSURE DUE TO MAINTENANCE.",
+            "alert": 0,
+            "priority": "ROUTINE",
+            "coordinates": null,
+            "additional_info": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.No additional info"
+        },
+        {
+            "from": "RESCUE COORDINATION CENTER",
+            "to": "ALL VESSELS IN VICINITY",
+            "dtg": "251830Z OCT 24",
+            "vessel_name": "SERENITY",
+            "message": "1. DISTRESS CALL RECEIVED FROM YACHT \"SERENITY\"",
+            "alert": 1,
+            "priority": "URGENT",
+            "coordinates": null,
+            "additional_info": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.No additional info"
+        },
+        {
+            "from": "ENVIRONMENTAL PROTECTION UNIT",
+            "to": "COMMAND CENTER",
+            "dtg": "261045Z OCT 24",
+            "vessel_name": null,
+            "message": "1. OIL SPILL DETECTED AT 13\u00c2\u00b025'N, 71\u00c2\u00b020'W.",
+            "alert": 1,
+            "priority": "IMMEDIATE",
+            "coordinates": {
+                "latitude": "13\u00b025'N",
+                "longitude": "71\u00b020'W"
+            },
+            "additional_info": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.No additional info"
+        },
+        {
+            "from": "FISHERIES PATROL ECHO",
+            "to": "COASTAL ENFORCEMENT",
+            "dtg": "270830Z OCT 24",
+            "vessel_name": "LUCKY STAR",
+            "message": "1. INTERCEPTED FISHING VESSEL \"LUCKY STAR\" IN PROTECTED MARINE RESERVE.",
+            "alert": 0,
+            "priority": "PRIORITY",
+            "coordinates": null,
+            "additional_info": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.No additional info"
+        },
+        {
+            "from": "NAVAL INTELLIGENCE FOXTROT",
+            "to": "FLEET COMMAND",
+            "dtg": "281200Z OCT 24",
+            "vessel_name": null,
+            "message": "1. INTERCEPTED COMMUNICATIONS SUGGEST POSSIBLE HOSTILE SUBMARINE ACTIVITY.",
+            "alert": 0,
+            "priority": "SECRET",
+            "coordinates": null,
+            "additional_info": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.No additional info"
+        },
+        {
+            "from": "LIGHTHOUSE KEEPER GULF",
+            "to": "NAVIGATION WARNING OFFICE",
+            "dtg": "291600Z OCT 24",
+            "vessel_name": null,
+            "message": "1. LIGHTHOUSE AT 13\u00c2\u00b005'N, 70\u00c2\u00b020'W UNDERGOING URGENT REPAIRS.",
+            "alert": 0,
+            "priority": "ROUTINE",
+            "coordinates": {
+                "latitude": "13\u00b005'N",
+                "longitude": "70\u00b020'W"
+            },
+            "additional_info": "TypeError in RAG generation. Please check input dimensions and tensor compatibility.No additional info"
+        }
+    ]
+}

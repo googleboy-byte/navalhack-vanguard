@@ -1,0 +1,422 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link
+      rel="stylesheet"
+      href="/static/_next/static/css/5fc1599b1b654e74.css"
+      data-precedence="next"
+    />
+    <link
+      rel="preload"
+      as="script"
+      fetchPriority="low"
+      href="/static/_next/static/chunks/webpack-2e534b1aef5f9925.js"
+    />
+    <script
+      src="/static/_next/static/chunks/fd9d1056-cc1356757bccdf63.js"
+      async=""
+    ></script>
+    <script
+      src="/static/_next/static/chunks/117-9c1b4bfc883f59c7.js"
+      async=""
+    ></script>
+    <script
+      src="/static/_next/static/chunks/main-app-db7cb08825d21858.js"
+      async=""
+    ></script>
+    <script
+      src="/static/_next/static/chunks/718-b0128b246b259512.js"
+      async=""
+    ></script>
+    <script
+      src="/static/_next/static/chunks/app/(home)/layout-6a7d53bcfa9bb83e.js"
+      async=""
+    ></script>
+    <title>Naval Vanguard</title>
+    <meta name="description" content="Military Software for the Naval Forces" />
+    <link rel="icon" href="/favicon.ico" type="image/x-icon" sizes="16x16" />
+    <script
+      src="/static/_next/static/chunks/polyfills-42372ed130431b0a.js"
+      nomodule=""
+    ></script>
+    <title>SitAware</title>
+    <!-- <script type="text/javascript" src="eel.js"></script> -->
+    <script
+      type="text/javascript"
+      src="/static/js/script_interface.js"
+    ></script>
+    <script type="text/javascript" src="/static/js/map.js"></script>
+    <link rel="stylesheet" href="/static/css/styles.css" />
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+    />
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/leaflet.awesome-markers/dist/leaflet.awesome-markers.css"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css"
+    />
+
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script src="https://unpkg.com/leaflet.awesome-markers/dist/leaflet.awesome-markers.js"></script>
+
+    <script src="https://api.mapbox.com/mapbox.js/plugins/leaflet-fullscreen/v1.0.1/Leaflet.fullscreen.min.js"></script>
+    <link
+      href="https://api.mapbox.com/mapbox.js/plugins/leaflet-fullscreen/v1.0.1/leaflet.fullscreen.css"
+      rel="stylesheet"
+    />
+
+    <!-- Leaflet Graticule CSS -->
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/leaflet-graticule/src/leaflet.graticule.css"
+    />
+
+    <!-- Leaflet Graticule JS -->
+    <script src="https://unpkg.com/leaflet-graticule/src/leaflet.graticule.js"></script>
+    <!-- <script src="leaflet.pattern.js"></script> -->
+    <script src="https://unpkg.com/leaflet.gridlayer@latest/leaflet.gridlayer.min.js"></script>
+  </head>
+  <body
+    class="__className_d65c78 __variable_389612 __variable_1e4310 __variable_c3aa02 __variable_1361c6 __variable_d8f33d __variable_4558f0 antialiased dark"
+  >
+    <html lang="en">
+      <body>
+        <section
+          class="grid w-screen h-screen bg-slate-950 grid-rows-[auto_1fr] no-scrollbar"
+        >
+          <header class="h-full">
+            <div
+              class="flex items-center justify-between bg-stone-900/20 backdrop-blur-sm border-b border-stone-700/50"
+            >
+              <div class="p-3 px-8 flex items-center justify-center">
+                <img
+                  alt="Logo"
+                  loading="lazy"
+                  width="30"
+                  height="30"
+                  decoding="async"
+                  data-nimg="1"
+                  style="color: transparent"
+                  src="/static/images/logo-alt.png"
+                />
+                <h1
+                  class="bg-gradient-to-b from-gray-100 to-neutral-400 inline-block text-transparent bg-clip-text font-bold text-2xl ml-3"
+                >
+                  Naval Vanguard
+                </h1>
+              </div>
+              <div class="p-3 px-5">
+                <!-- <a
+                  class="mt-10 p-5 text-l font-semibold hover:text-amber-300"
+                  href="/landing"
+                  >Home</a
+                > -->
+                <a
+                  class="mt-10 p-5 text-l font-semibold hover:text-amber-300"
+                  href="/docs"
+                  >Docs</a
+                >
+                <a
+                  class="mt-10 p-5 text-l font-semibold text-amber-300"
+                  href="/dashboard"
+                  >Dashboard</a
+                >
+                <a
+                  class="mt-10 p-5 text-l font-semibold hover:text-amber-300"
+                  href="/team"
+                  >Team</a
+                >
+              </div>
+            </div>
+          </header>
+          <main class="grid overflow-hidden">
+            <div class="bg-slate-950 overflow-y-auto no-scrollbar">
+              <div
+                class="h-full w-full grid grid-cols-[18%_62%_20%] overflow-hidden"
+              >
+                <div class="grid">
+                  <div>
+                    <div
+                      class="rounded-lg border text-card-foreground shadow-sm h-full bg-black relative"
+                    >
+                      <div id="commsbox" class="flex flex-col space-y-1.5 p-6">
+                        <h3
+                          class="text-2xl font-semibold leading-none tracking-tight"
+                        >
+                          Input New Data
+                        </h3>
+
+                        <input class="flex w-full rounded-md border border-input bg-background px-3 py-2 text-sm ring-offset-background file:border-0 file:bg-transparent file:text-sm file:font-medium file:text-foreground placeholder:text-muted-foreground focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:cursor-not-allowed disabled:opacity-50 h-full font-light"
+                           id="textInput" placeholder="New data...">
+                        </input>
+
+                        <script>
+                          const textInput = document.getElementById('textInput');
+                  
+                          // Add event listener to capture "Enter" key press
+                          textInput.addEventListener('keydown', function(event) {
+                              if (event.key === 'Enter' && !event.shiftKey) {
+                                  event.preventDefault(); // Prevents the default behavior of Enter (newline)
+                                  submitText();
+                                  // textInput.value = "";
+                              }
+                          });
+                  
+                          // Function to submit text to FastAPI
+                          function submitText() {
+                              const text = textInput.value;
+                  
+                              fetch('http://127.0.0.1:8000/api/post/textdata', {
+                                  method: 'POST',
+                                  headers: {
+                                      'Content-Type': 'application/json',
+                                  },
+                                  body: JSON.stringify({ text: text }),
+                              })
+                              .then(response => response.json())
+                              .then(data => {
+                                  console.log('Success:', data);
+                                  // Clear the textarea after submission
+                                  var newdiv = document.createElement('div');
+                                  newdiv.className = 'flex w-full rounded-md border border-input bg-background px-3 py-2 text-sm ring-offset-background file:border-0 file:bg-transparent file:text-sm file:font-medium file:text-foreground placeholder:text-muted-foreground focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:cursor-not-allowed disabled:opacity-50 h-full font-light';
+                                  newdiv.textContent = textInput.value;
+                                  document.getElementById('commsbox').appendChild(newdiv);
+                                  textInput.value = '';
+                              })
+                              .catch((error) => {
+                                  console.error('Error:', error);
+                              });
+                          }
+                        </script>
+                        <input type="file" id="fileInput" 
+                        class="flex w-full rounded-md border border-input bg-background px-3 py-2 text-sm ring-offset-background file:border-0 file:bg-transparent file:text-sm file:font-medium file:text-foreground placeholder:text-muted-foreground focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:cursor-not-allowed disabled:opacity-50 h-full font-light">
+                        <br>
+                        <button type="button" onclick="uploadFile()" class="Uplo  adBtn">Upload File</button>
+                    
+                        <script>
+                            function uploadFile() {
+                                const fileInput = document.getElementById('fileInput');
+                                const file = fileInput.files[0];
+                    
+                                // Check if a file is selected
+                                if (!file) {
+                                    alert("Please select a file to upload.");
+                                    return;
+                                }
+                    
+                                const formData = new FormData();
+                                formData.append("file", file);
+                    
+                                fetch('http://127.0.0.1:8000/api/post/file', {
+                                    method: 'POST',
+                                    body: formData,
+                                })
+                                .then(response => response.json())
+                                .then(data => {
+                                    console.log('Success:', data);
+                                    var newdiv1 = document.createElement('div');
+                                    newdiv1.className = 'flex w-full rounded-md border border-input bg-background px-3 py-2 text-sm ring-offset-background file:border-0 file:bg-transparent file:text-sm file:font-medium file:text-foreground placeholder:text-muted-foreground focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:cursor-not-allowed disabled:opacity-50 h-full font-light';
+                                    newdiv1.textContent = "FILE UPLOADED: " + fileInput.value;
+                                    document.getElementById('commsbox').appendChild(newdiv1);
+                                    fileInput.value = '';  // Clear the input after upload
+                                })
+                                .catch((error) => {
+                                    console.error('Error:', error);
+                                });
+                            }
+                        </script>
+<!-- 
+                        <form id="fileForm">
+                          <input type="file" id="fileInput" />
+                          <button type="button" onclick="submitFile()">Upload File</button>
+                        </form> -->
+                      </div>
+                      <div class="p-2">
+                        <div
+                          class="flex flex-col m-2 border border-gray-800 rounded-lg px-2 py-1"
+                        ></div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="grid grid-rows-[10%_90%]">
+                  <div class="grid grid-cols-[50%_50%]">
+                    <div>
+                      <div
+                        class="rounded-lg border text-card-foreground shadow-sm h-full bg-black"
+                      >
+                        <input
+                          id="search_contacts_input_"
+                          type="text"
+                          class="inputclass_search_ flex w-full rounded-md border border-input bg-background px-3 py-2 text-sm ring-offset-background file:border-0 file:bg-transparent file:text-sm file:font-medium file:text-foreground placeholder:text-muted-foreground focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:cursor-not-allowed disabled:opacity-50 h-full font-light"
+                          placeholder="Search Contacts"
+                        />
+                      </div>
+                    </div>
+                    <div>
+                      <div
+                        class="rounded-lg border text-card-foreground shadow-sm h-full bg-black"
+                      >
+                        <input
+                          id="search_zones_input_"
+                          type="text"
+                          class="inputclass_search_ flex w-full rounded-md border border-input bg-background px-3 py-2 text-sm ring-offset-background file:border-0 file:bg-transparent file:text-sm file:font-medium file:text-foreground placeholder:text-muted-foreground focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:cursor-not-allowed disabled:opacity-50 h-full font-light"
+                          placeholder="Search Zones"
+                        />
+                      </div>
+                    </div>
+                  </div>
+                  <div>
+                    <div
+                      class="rounded-lg border text-card-foreground shadow-sm h-full bg-black relative"
+                    >
+                      <div class="map-box-element w-full" id="main-map"></div>
+                      <div
+                        id="statusdiv"
+                        style="
+                          padding-left: 10px;
+                          color: antiquewhite;
+                          font-size: large;
+                          font-weight: bold;
+                          font-family: Arial, Helvetica, sans-serif;
+                          width: 95%;
+                          align-self: center;
+                          padding: 5px 5px;
+                          margin: 20px;
+                        "
+                      ></div>
+                    </div>
+                  </div>
+                </div>
+                <div class="grid grid-rows-[50%_50%]">
+                  <div class="">
+                    <div
+                      class="rounded-lg border text-card-foreground shadow-sm h-full bg-black p-2 relative overflow-y-auto scrollbar-hidden"
+                    >
+                      <!--                     
+                      <div id="stat_box" class="infobox"></div>
+                      <div
+                        id="report_box"
+                        style="
+                          z-index: 1001;
+                          font-size: large;
+                          width: 95%;
+                          margin-left: 2%;
+                          margin-right: 2%;
+                          min-height: 100px;
+                          margin-top: 5px;
+                          overflow: auto;
+                          color: antiquewhite;
+                          padding: 5px;
+                        "
+                      ></div> -->
+                      <br>
+                      <div class="flex flex-col space-y-1.5 p-6 pb-0">
+                        <h3
+                          id="current_contact_desig_show_"
+                          class="headingprofilecard text-2xl font-semibold leading-none tracking-tight w-auto flex gap-2 text-emerald-400"
+                        >
+                          <!-- <div
+                            id="color_node_status_"
+                            class="colorcode border aspect-[1/1] scale-[80%] bg-emerald-400 rounded-full"
+                          ></div> -->
+                        </h3>
+                        
+                      </div>
+                      <!-- <div
+                        class="speedprofilecard p-6 pt-2 font-extrabold text-gray-400 text-3xl flex items-center gap-1"
+                      >
+                        speed here
+                        <span class="text-xl text-center">knots</span>
+                      </div> -->
+                      <div
+                        id="current_contact_info_card_"
+                        class="p-4 p-6 pt-2 text-gray-400 text-l flex items-center gap-1 overflow-y-auto"
+                      ></div>
+                      <p
+                          id="current_contact_add_info_"
+                          class="addinfo text-l text-muted-foreground overflow-y-auto"
+                        >
+                      </p>
+
+                      <div
+                        class="flex items-center absolute top-0 right-0 p-4 pr-5"
+                      >
+                        <p
+                          id="last_repd_datetime_"
+                          class="footerprofilecard text-sm text-right text-muted-foreground"
+                        >
+                        <br>
+                          
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+                  <div>
+                    <div
+                      class="rounded-lg border text-card-foreground shadow-sm h-full bg-black p-2 relative overflow-y-auto"
+                    >
+                      <div
+                        id="report_box_zones"
+                        style="
+                          z-index: 1001;
+                          font-size: medium;
+                          width: 95%;
+                          margin-left: 2%;
+                          margin-right: 2%;
+                          min-height: 250px;
+                          margin-top: 5px;
+                          overflow: auto;
+                          color: antiquewhite;
+                          padding: 5px;
+                        "
+                      ></div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </main>
+        </section>
+        <script
+          src="/_next/static/chunks/webpack-2e534b1aef5f9925.js"
+          async=""
+        ></script>
+      </body>
+    </html>
+    <script>
+      (self.__next_f = self.__next_f || []).push([0]);
+      self.__next_f.push([2, null]);
+    </script>
+    <script>
+      self.__next_f.push([
+        1,
+        '1:HL["/_next/static/css/5fc1599b1b654e74.css","style"]\n',
+      ]);
+    </script>
+    <script>
+      self.__next_f.push([
+        1,
+        '2:I[2846,[],""]\n4:I[4707,[],""]\n5:I[6423,[],""]\n6:I[7441,["718","static/chunks/718-b0128b246b259512.js","57","static/chunks/app/(home)/layout-6a7d53bcfa9bb83e.js"],"default"]\nc:I[1060,[],""]\n7:{"fontFamily":"system-ui,\\"Segoe UI\\",Roboto,Helvetica,Arial,sans-serif,\\"Apple Color Emoji\\",\\"Segoe UI Emoji\\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"}\n8:{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"}\n9:{"display":"inline-block"}\na:{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0}\nd:[]\n',
+      ]);
+    </script>
+    <script>
+      self.__next_f.push([
+        1,
+        '0:["$","$L2",null,{"buildId":"PSm71ZaC_BXu61YcH5qmT","assetPrefix":"","urlParts":["","dashboard"],"initialTree":["",{"children":["(panel)",{"children":["dashboard",{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],"initialSeedData":["",{"children":["(panel)",{"children":["dashboard",{"children":["__PAGE__",{},[["$L3",["$","div",null,{"className":"h-full w-full grid grid-cols-[18%_62%_20%] overflow-hidden","children":[["$","div",null,{"className":"grid grid-rows-[auto_1fr]","children":[["$","div",null,{"children":[" ",["$","div",null,{"className":"rounded-lg border text-card-foreground shadow-sm h-full bg-black p-2 relative","children":["$","div",null,{"className":"flex flex-col space-y-1.5 p-6","children":[["$","h3",null,{"className":"text-2xl font-semibold leading-none tracking-tight","children":"John Doe"}],["$","p",null,{"className":"text-sm text-muted-foreground","children":["Status: ",["$","span",null,{"className":"text-emerald-500","children":"Connected"}]," ","\\n","Location: ","Patrol Vessel Echo"]}]]}]}]]}],["$","div",null,{"children":[" ",["$","div",null,{"className":"rounded-lg border text-card-foreground shadow-sm h-full bg-black relative","children":[["$","div",null,{"className":"flex flex-col space-y-1.5 p-6","children":["$","h3",null,{"className":"text-2xl font-semibold leading-none tracking-tight","children":"Comms"}]}],["$","div",null,{"className":"p-2","children":[["$","div",null,{"className":"flex flex-col m-2 border border-gray-800 rounded-lg px-2 py-1","children":[["$","div",null,{"className":"text-xs text-neutral-400 text-left","children":[["$","span",null,{"className":"font-bold text-blue-500","children":["[",1,"] "]}],["$","span",null,{"className":"text-amber-600","children":"Ocean Wanderer"}],":"," ","Routine patrol, calm sea"]}],["$","div",null,{"className":"text-xs text-neutral-400 text-right","children":["$undefined","72°15\'W",", ","2024-10-21"," ","11:15 UTC"]}]]}],["$","div",null,{"className":"flex flex-col m-2 border border-gray-800 rounded-lg px-2 py-1","children":[["$","div",null,{"className":"text-xs text-neutral-400 text-left","children":[["$","span",null,{"className":"font-bold text-emerald-500","children":["[",2,"] "]}],["$","span",null,{"className":"text-amber-600","children":"Pacific Trader"}],":"," ","No suspicious activity"]}],["$","div",null,{"className":"text-xs text-neutral-400 text-right","children":["$undefined","71°45\'W",", ","2024-10-21"," ","15:45 UTC"]}]]}],"$undefined","$undefined","$undefined","$undefined","$undefined","$undefined","$undefined","$undefined","$undefined"]}]]}]]}]]}],["$","div",null,{"className":"grid grid-rows-[10%_90%]","children":[["$","div",null,{"className":"grid grid-cols-[50%_50%] ","children":[["$","div",null,{"children":["$","div",null,{"className":"rounded-lg border text-card-foreground shadow-sm h-full bg-black","children":["$","input",null,{"type":"text","className":"flex w-full rounded-md border border-input bg-background px-3 py-2 text-sm ring-offset-background file:border-0 file:bg-transparent file:text-sm file:font-medium file:text-foreground placeholder:text-muted-foreground focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:cursor-not-allowed disabled:opacity-50 h-full font-light","placeholder":"Search Contacts"}]}]}],["$","div",null,{"children":["$","div",null,{"className":"rounded-lg border text-card-foreground shadow-sm h-full bg-black","children":["$","input",null,{"type":"text","className":"flex w-full rounded-md border border-input bg-background px-3 py-2 text-sm ring-offset-background file:border-0 file:bg-transparent file:text-sm file:font-medium file:text-foreground placeholder:text-muted-foreground focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:cursor-not-allowed disabled:opacity-50 h-full font-light","placeholder":"Search Zones"}]}]}]]}],["$","div",null,{"children":["$","div",null,{"className":"rounded-lg border text-card-foreground shadow-sm h-full bg-black p-2 relative","children":[["$","div",null,{"className":"flex flex-col space-y-1.5 p-6","children":[["$","h3",null,{"className":"text-2xl font-semibold leading-none tracking-tight","children":"Sea Guardian"}],["$","p",null,{"className":"text-sm text-muted-foreground","children":"Monitoring nearby vessels"}]]}],["$","div",null,{"className":"flex items-center absolute bottom-0 right-0 p-4 pr-5","children":["$","p",null,{"className":"text-sm text-right text-muted-foreground","children":["09:30 UTC",", ","2024-10-22"]}]}]]}]}]]}],["$","div",null,{"className":"grid grid-rows-[50%_50%]","children":[["$","div",null,{"className":"","children":[["$","div",null,{"className":"rounded-lg border text-card-foreground shadow-sm h-full bg-black p-2 relative","children":[["$","div",null,{"className":"flex flex-col space-y-1.5 p-6 pb-0","children":[["$","h3",null,{"className":"text-2xl font-semibold leading-none tracking-tight w-auto flex gap-2 text-emerald-400 border","children":["Sea Guardian"," ",["$","div",null,{"className":"w-auto aspect-[1/1] scale-[80%] bg-emerald-400 rounded-full"}]]}],["$","p",null,{"className":"text-sm text-muted-foreground","children":"Monitoring nearby vessels"}]]}],["$","div",null,{"className":"p-6 pt-2 font-extrabold text-gray-400 text-3xl flex items-center gap-1","children":["14"," ",["$","span",null,{"className":"text-xl text-center","children":"knots"}]]}],["$","div",null,{"className":"flex items-center absolute bottom-0 right-0 p-4 pr-5","children":["$","p",null,{"className":"text-sm text-right text-muted-foreground","children":["09:30 UTC",", ","2024-10-22"]}]}]]}]," "]}],["$","div",null,{"children":["$","div",null,{"className":"rounded-lg border text-card-foreground shadow-sm h-full bg-black p-2 relative","children":[["$","div",null,{"className":"flex flex-col space-y-1.5 p-6","children":[["$","h3",null,{"className":"text-2xl font-semibold leading-none tracking-tight","children":"Sea Guardian"}],["$","p",null,{"className":"text-sm text-muted-foreground","children":"Monitoring nearby vessels"}]]}],["$","div",null,{"className":"flex items-center absolute bottom-0 right-0 p-4 pr-5","children":["$","p",null,{"className":"text-sm text-right text-muted-foreground","children":["09:30 UTC",", ","2024-10-22"]}]}]]}]}]]}]]}],null],null],null]},[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","(panel)","children","dashboard","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[null,["$","html",null,{"lang":"en","children":["$","body",null,{"children":["$","section",null,{"className":"grid w-screen h-screen bg-slate-950 grid-rows-[auto_1fr] no-scrollbar","children":[["$","header",null,{"className":"h-full","children":["$","$L6",null,{"fixed":false}]}],["$","main",null,{"className":"grid overflow-hidden","children":["$","div",null,{"className":"bg-slate-950 overflow-y-auto no-scrollbar","children":["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","(panel)","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\\"Segoe UI\\",Roboto,Helvetica,Arial,sans-serif,\\"Apple Color Emoji\\",\\"Segoe UI Emoji\\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}]}]]}]}]}]],null],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/5fc1599b1b654e74.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":" __className_d65c78 __variable_389612 __variable_1e4310 __variable_c3aa02 __variable_1361c6 __variable_d8f33d __variable_4558f0 antialiased dark","children":["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":"$7","children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":"$8","children":"404"}],["$","div",null,{"style":"$9","children":["$","h2",null,{"style":"$a","children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}]}]],null],null],"couldBeIntercepted":false,"initialHead":[null,"$Lb"],"globalErrorComponent":"$c","missingSlots":"$Wd"}]\n',
+      ]);
+    </script>
+    <script>
+      self.__next_f.push([
+        1,
+        'b:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Naval Vanguard"}],["$","meta","3",{"name":"description","content":"Military Software for the Naval Forces"}],["$","link","4",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}]]\n3:null\n',
+      ]);
+    </script>
+  </body>
+</html>

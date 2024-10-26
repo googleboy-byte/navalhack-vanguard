@@ -1,0 +1,1087 @@
+{
+    "reports": [
+        {
+            "Date": "2024-10-20",
+            "Time": "14:30 UTC",
+            "Location": "Patrol Vessel Alpha",
+            "Report": "Cargo vessel \"Pacific Trader\" observed at 13\u00c2\u00b015'N, 71\u00c2\u00b030'W. Heading 045\u00c2\u00b0, speed 12 knots. IMO number 9876543. No suspicious activity."
+        },
+        {
+            "Date": "2024-10-20",
+            "Time": "15:45 UTC",
+            "Location": "Coastal Station Bravo",
+            "Report": "Two fishing vessels spotted 3 nautical miles offshore. Coordinates 12\u00c2\u00b050'N, 70\u00c2\u00b015'W. Stationary. Appear to be engaged in legal fishing activities."
+        },
+        {
+            "Date": "2024-10-20",
+            "Time": "17:20 UTC",
+            "Location": "Aerial Patrol Charlie",
+            "Report": "Unidentified fast-moving craft at 13\u00c2\u00b005'N, 71\u00c2\u00b010'W. Heading 270\u00c2\u00b0, estimated speed 35 knots. Possible smuggling vessel. Alerting nearby patrol boats."
+        },
+        {
+            "Date": "2024-10-20",
+            "Time": "19:00 UTC",
+            "Location": "Submarine Delta",
+            "Report": "Large underwater contact detected at 12\u00c2\u00b040'N, 70\u00c2\u00b055'W. Moving slowly, depth 200 meters. Possibly whale or submarine. Continuing to monitor."
+        },
+        {
+            "Date": "2024-10-20",
+            "Time": "20:30 UTC",
+            "Location": "Patrol Vessel Echo",
+            "Report": "Cruise ship \"Ocean Star\" observed entering restricted zone at 13\u00c2\u00b030'N, 71\u00c2\u00b045'W. Advised to change course. Ship complied and is now on correct heading."
+        },
+        {
+            "Date": "2024-10-20",
+            "Time": "22:10 UTC",
+            "Location": "Radar Station Foxtrot",
+            "Report": "Multiple small contacts detected 20 nautical miles east of Port Xavier. Possible fishing fleet. Estimated 15-20 vessels. No abnormal activity observed."
+        },
+        {
+            "Date": "2024-10-20",
+            "Time": "23:55 UTC",
+            "Location": "Patrol Vessel Golf",
+            "Report": "Tanker \"Black Pearl\" observed at 12\u00c2\u00b030'N, 70\u00c2\u00b040'W. Heading 180\u00c2\u00b0, speed 8 knots. Routine transit. Tanker is on scheduled route to Port Yankee."
+        },
+        {
+            "Date": "2024-10-21",
+            "Time": "01:30 UTC",
+            "Location": "Coastal Station Hotel",
+            "Report": "Pleasure yacht \"Sea Breeze\" entering Port Xavier. Length approx. 30 meters. No irregularities observed. Standard port entry procedures followed."
+        },
+        {
+            "Date": "2024-10-21",
+            "Time": "03:40 UTC",
+            "Location": "Aerial Patrol India",
+            "Report": "Oil slick detected at 13\u00c2\u00b020'N, 71\u00c2\u00b015'W. Approximately 500 meters in length. Source unknown. Environmental response team notified for further investigation."
+        },
+        {
+            "Date": "2024-10-21",
+            "Time": "05:05 UTC",
+            "Location": "Patrol Vessel Juliet",
+            "Report": "Unlit vessel spotted at 12\u00c2\u00b055'N, 70\u00c2\u00b030'W. Heading 090\u00c2\u00b0, speed 6 knots. Approached for inspection. Fishing vessel with malfunctioning lights. Issued warning."
+        },
+        {
+            "Date": "2024-10-21",
+            "Time": "06:30 UTC",
+            "Location": "Lighthouse Keeper Kilo",
+            "Report": "Large cargo ship \"Asian Enterprise\" passed 2 nautical miles off lighthouse at 13\u00c2\u00b010'N, 70\u00c2\u00b020'W. Heading 315\u00c2\u00b0, speed 15 knots. Normal transit observed."
+        },
+        {
+            "Date": "2024-10-21",
+            "Time": "08:15 UTC",
+            "Location": "Patrol Aircraft Lima",
+            "Report": "School of dolphins spotted at 12\u00c2\u00b045'N, 71\u00c2\u00b005'W. Approximately 50 individuals. No vessels in immediate vicinity. Noted for marine life monitoring program."
+        },
+        {
+            "Date": "2024-10-21",
+            "Time": "09:50 UTC",
+            "Location": "Coastal Radar Mike",
+            "Report": "Small aircraft flying low over water at 13\u00c2\u00b035'N, 71\u00c2\u00b025'W. Heading 180\u00c2\u00b0, speed 120 knots. Unable to establish communication. Alerting air traffic control."
+        },
+        {
+            "Date": "2024-10-21",
+            "Time": "11:25 UTC",
+            "Location": "Patrol Boat November",
+            "Report": "Intercepted distress call from sailing yacht \"Windseeker\" at 12\u00c2\u00b038'N, 70\u00c2\u00b048'W. Reporting engine failure. Proceeding to assist. ETA 30 minutes."
+        },
+        {
+            "Date": "2024-10-21",
+            "Time": "13:00 UTC",
+            "Location": "Port Authority Oscar",
+            "Report": "Container ship \"Global Freight\" docked at Port Xavier. Length 300 meters. Customs inspection underway. No anomalies reported in initial assessment."
+        },
+        {
+            "Date": "2024-10-20",
+            "Time": "14:30 UTC",
+            "Location": "Patrol Vessel Alpha",
+            "Report": "Cargo vessel observed at 13\u00c2\u00b015'N, 71\u00c2\u00b030'W. Heading 045\u00c2\u00b0, speed 12 knots. No suspicious activity."
+        },
+        {
+            "Date": "2024-10-21",
+            "Time": "08:45 UTC",
+            "Location": "Coastal Station Bravo",
+            "Report": "Two fishing vessels spotted 3 nautical miles offshore. Coordinates 12\u00c2\u00b050'N, 70\u00c2\u00b015'W. Stationary."
+        },
+        {
+            "Date": "2024-10-22",
+            "Time": "22:15 UTC",
+            "Location": "Aerial Patrol Charlie",
+            "Report": "Unidentified fast-moving craft at 13\u00c2\u00b005'N, 71\u00c2\u00b010'W. Heading 270\u00c2\u00b0, estimated speed 35 knots."
+        },
+        {
+            "Date": "2024-10-23",
+            "Time": "11:00 UTC",
+            "Location": "Submarine Delta",
+            "Report": "Large underwater contact detected at 12\u00c2\u00b040'N, 70\u00c2\u00b055'W. Moving slowly, depth 200 meters."
+        },
+        {
+            "Date": "2024-10-24",
+            "Time": "16:20 UTC",
+            "Location": "Patrol Vessel Echo",
+            "Report": "Cruise ship \"Ocean Star\" observed entering restricted zone at 13\u00c2\u00b030'N, 71\u00c2\u00b045'W. Advised to change course."
+        },
+        {
+            "Date": "2024-10-25",
+            "Time": "03:10 UTC",
+            "Location": "Radar Station Foxtrot",
+            "Report": "Multiple small contacts detected 20 nautical miles east of Port Xavier. Possible fishing fleet."
+        },
+        {
+            "Date": "2024-10-26",
+            "Time": "19:55 UTC",
+            "Location": "Patrol Vessel Golf",
+            "Report": "Tanker \"Black Pearl\" observed at 12\u00c2\u00b030'N, 70\u00c2\u00b040'W. Heading 180\u00c2\u00b0, speed 8 knots. Routine transit."
+        },
+        {
+            "Date": "2024-10-27",
+            "Time": "07:30 UTC",
+            "Location": "Coastal Station Hotel",
+            "Report": "Pleasure yacht entering Port Xavier. Length approx. 30 meters. No irregularities observed."
+        },
+        {
+            "Date": "2024-10-28",
+            "Time": "13:40 UTC",
+            "Location": "Aerial Patrol India",
+            "Report": "Oil slick detected at 13\u00c2\u00b020'N, 71\u00c2\u00b015'W. Approximately 500 meters in length. Source unknown."
+        },
+        {
+            "Date": "2024-10-29",
+            "Time": "05:05 UTC",
+            "Location": "Patrol Vessel Juliet",
+            "Report": "Unlit vessel spotted at 12\u00c2\u00b055'N, 70\u00c2\u00b030'W. Heading 090\u00c2\u00b0, speed 6 knots. Investigating further."
+        }
+    ],
+    "surveillance_logs": [
+        {
+            "Date": "2024-10-20",
+            "Time": "14:30 UTC",
+            "Location": "Patrol Vessel Alpha",
+            "Report": "Cargo vessel \"Pacific Trader\" observed at 13\u00c2\u00b015'N, 71\u00c2\u00b030'W. Heading 045\u00c2\u00b0, speed 12 knots. IMO number 9876543. No suspicious activity."
+        },
+        {
+            "Date": "2024-10-20",
+            "Time": "15:45 UTC",
+            "Location": "Coastal Station Bravo",
+            "Report": "Two fishing vessels spotted 3 nautical miles offshore. Coordinates 12\u00c2\u00b050'N, 70\u00c2\u00b015'W. Stationary. Appear to be engaged in legal fishing activities."
+        },
+        {
+            "Date": "2024-10-20",
+            "Time": "17:20 UTC",
+            "Location": "Aerial Patrol Charlie",
+            "Report": "Unidentified fast-moving craft at 13\u00c2\u00b005'N, 71\u00c2\u00b010'W. Heading 270\u00c2\u00b0, estimated speed 35 knots. Possible smuggling vessel. Alerting nearby patrol boats."
+        },
+        {
+            "Date": "2024-10-20",
+            "Time": "19:00 UTC",
+            "Location": "Submarine Delta",
+            "Report": "Large underwater contact detected at 12\u00c2\u00b040'N, 70\u00c2\u00b055'W. Moving slowly, depth 200 meters. Possibly whale or submarine. Continuing to monitor."
+        },
+        {
+            "Date": "2024-10-20",
+            "Time": "20:30 UTC",
+            "Location": "Patrol Vessel Echo",
+            "Report": "Cruise ship \"Ocean Star\" observed entering restricted zone at 13\u00c2\u00b030'N, 71\u00c2\u00b045'W. Advised to change course. Ship complied and is now on correct heading."
+        },
+        {
+            "Date": "2024-10-20",
+            "Time": "22:10 UTC",
+            "Location": "Radar Station Foxtrot",
+            "Report": "Multiple small contacts detected 20 nautical miles east of Port Xavier. Possible fishing fleet. Estimated 15-20 vessels. No abnormal activity observed."
+        },
+        {
+            "Date": "2024-10-20",
+            "Time": "23:55 UTC",
+            "Location": "Patrol Vessel Golf",
+            "Report": "Tanker \"Black Pearl\" observed at 12\u00c2\u00b030'N, 70\u00c2\u00b040'W. Heading 180\u00c2\u00b0, speed 8 knots. Routine transit. Tanker is on scheduled route to Port Yankee."
+        },
+        {
+            "Date": "2024-10-21",
+            "Time": "01:30 UTC",
+            "Location": "Coastal Station Hotel",
+            "Report": "Pleasure yacht \"Sea Breeze\" entering Port Xavier. Length approx. 30 meters. No irregularities observed. Standard port entry procedures followed."
+        },
+        {
+            "Date": "2024-10-21",
+            "Time": "03:40 UTC",
+            "Location": "Aerial Patrol India",
+            "Report": "Oil slick detected at 13\u00c2\u00b020'N, 71\u00c2\u00b015'W. Approximately 500 meters in length. Source unknown. Environmental response team notified for further investigation."
+        },
+        {
+            "Date": "2024-10-21",
+            "Time": "05:05 UTC",
+            "Location": "Patrol Vessel Juliet",
+            "Report": "Unlit vessel spotted at 12\u00c2\u00b055'N, 70\u00c2\u00b030'W. Heading 090\u00c2\u00b0, speed 6 knots. Approached for inspection. Fishing vessel with malfunctioning lights. Issued warning."
+        },
+        {
+            "Date": "2024-10-21",
+            "Time": "06:30 UTC",
+            "Location": "Lighthouse Keeper Kilo",
+            "Report": "Large cargo ship \"Asian Enterprise\" passed 2 nautical miles off lighthouse at 13\u00c2\u00b010'N, 70\u00c2\u00b020'W. Heading 315\u00c2\u00b0, speed 15 knots. Normal transit observed."
+        },
+        {
+            "Date": "2024-10-21",
+            "Time": "08:15 UTC",
+            "Location": "Patrol Aircraft Lima",
+            "Report": "School of dolphins spotted at 12\u00c2\u00b045'N, 71\u00c2\u00b005'W. Approximately 50 individuals. No vessels in immediate vicinity. Noted for marine life monitoring program."
+        },
+        {
+            "Date": "2024-10-21",
+            "Time": "09:50 UTC",
+            "Location": "Coastal Radar Mike",
+            "Report": "Small aircraft flying low over water at 13\u00c2\u00b035'N, 71\u00c2\u00b025'W. Heading 180\u00c2\u00b0, speed 120 knots. Unable to establish communication. Alerting air traffic control."
+        },
+        {
+            "Date": "2024-10-21",
+            "Time": "11:25 UTC",
+            "Location": "Patrol Boat November",
+            "Report": "Intercepted distress call from sailing yacht \"Windseeker\" at 12\u00c2\u00b038'N, 70\u00c2\u00b048'W. Reporting engine failure. Proceeding to assist. ETA 30 minutes."
+        },
+        {
+            "Date": "2024-10-21",
+            "Time": "13:00 UTC",
+            "Location": "Port Authority Oscar",
+            "Report": "Container ship \"Global Freight\" docked at Port Xavier. Length 300 meters. Customs inspection underway. No anomalies reported in initial assessment."
+        },
+        {
+            "Date": "2024-10-20",
+            "Time": "14:30 UTC",
+            "Location": "Patrol Vessel Alpha",
+            "Report": "Cargo vessel observed at 13\u00c2\u00b015'N, 71\u00c2\u00b030'W. Heading 045\u00c2\u00b0, speed 12 knots. No suspicious activity."
+        },
+        {
+            "Date": "2024-10-21",
+            "Time": "08:45 UTC",
+            "Location": "Coastal Station Bravo",
+            "Report": "Two fishing vessels spotted 3 nautical miles offshore. Coordinates 12\u00c2\u00b050'N, 70\u00c2\u00b015'W. Stationary."
+        },
+        {
+            "Date": "2024-10-22",
+            "Time": "22:15 UTC",
+            "Location": "Aerial Patrol Charlie",
+            "Report": "Unidentified fast-moving craft at 13\u00c2\u00b005'N, 71\u00c2\u00b010'W. Heading 270\u00c2\u00b0, estimated speed 35 knots."
+        },
+        {
+            "Date": "2024-10-23",
+            "Time": "11:00 UTC",
+            "Location": "Submarine Delta",
+            "Report": "Large underwater contact detected at 12\u00c2\u00b040'N, 70\u00c2\u00b055'W. Moving slowly, depth 200 meters."
+        },
+        {
+            "Date": "2024-10-24",
+            "Time": "16:20 UTC",
+            "Location": "Patrol Vessel Echo",
+            "Report": "Cruise ship \"Ocean Star\" observed entering restricted zone at 13\u00c2\u00b030'N, 71\u00c2\u00b045'W. Advised to change course."
+        },
+        {
+            "Date": "2024-10-25",
+            "Time": "03:10 UTC",
+            "Location": "Radar Station Foxtrot",
+            "Report": "Multiple small contacts detected 20 nautical miles east of Port Xavier. Possible fishing fleet."
+        },
+        {
+            "Date": "2024-10-26",
+            "Time": "19:55 UTC",
+            "Location": "Patrol Vessel Golf",
+            "Report": "Tanker \"Black Pearl\" observed at 12\u00c2\u00b030'N, 70\u00c2\u00b040'W. Heading 180\u00c2\u00b0, speed 8 knots. Routine transit."
+        },
+        {
+            "Date": "2024-10-27",
+            "Time": "07:30 UTC",
+            "Location": "Coastal Station Hotel",
+            "Report": "Pleasure yacht entering Port Xavier. Length approx. 30 meters. No irregularities observed."
+        },
+        {
+            "Date": "2024-10-28",
+            "Time": "13:40 UTC",
+            "Location": "Aerial Patrol India",
+            "Report": "Oil slick detected at 13\u00c2\u00b020'N, 71\u00c2\u00b015'W. Approximately 500 meters in length. Source unknown."
+        },
+        {
+            "Date": "2024-10-29",
+            "Time": "05:05 UTC",
+            "Location": "Patrol Vessel Juliet",
+            "Report": "Unlit vessel spotted at 12\u00c2\u00b055'N, 70\u00c2\u00b030'W. Heading 090\u00c2\u00b0, speed 6 knots. Investigating further."
+        }
+    ],
+    "comm_messages": [
+        {
+            "FROM": "PATROL BOAT BRAVO",
+            "TO": "COMMAND CENTER",
+            "PRIORITY": "URGENT",
+            "DTG": "201700Z OCT 24",
+            "MESSAGE": "1. DETECTED SUBMARINE PERISCOPE AT 13\u00c2\u00b045'N, 71\u00c2\u00b023'W AT 1645Z."
+        },
+        {
+            "FROM": "COASTAL STATION ALPHA",
+            "TO": "ALL UNITS",
+            "PRIORITY": "ROUTINE",
+            "DTG": "201830Z OCT 24",
+            "MESSAGE": "1. WEATHER ADVISORY: TROPICAL STORM APPROACHING."
+        },
+        {
+            "FROM": "AIR PATROL CHARLIE",
+            "TO": "COMMAND CENTER",
+            "PRIORITY": "IMMEDIATE",
+            "DTG": "202000Z OCT 24",
+            "MESSAGE": "1. SPOTTED VESSEL MATCHING DESCRIPTION OF WANTED SMUGGLING SHIP."
+        },
+        {
+            "FROM": "SUBMARINE DELTA",
+            "TO": "FLEET COMMAND",
+            "PRIORITY": "CONFIDENTIAL",
+            "DTG": "202130Z OCT 24",
+            "MESSAGE": "1. COMPLETED UNDERWATER MAPPING OF SECTOR 4."
+        },
+        {
+            "FROM": "PORT AUTHORITY XAVIER",
+            "TO": "ALL MARITIME UNITS",
+            "PRIORITY": "ROUTINE",
+            "DTG": "202300Z OCT 24",
+            "MESSAGE": "1. PORT CLOSURE DUE TO MAINTENANCE."
+        },
+        {
+            "FROM": "RESCUE COORDINATION CENTER",
+            "TO": "ALL VESSELS IN VICINITY",
+            "PRIORITY": "URGENT",
+            "DTG": "210030Z OCT 24",
+            "MESSAGE": "1. DISTRESS CALL RECEIVED FROM YACHT \"SERENITY\""
+        },
+        {
+            "FROM": "ENVIRONMENTAL PROTECTION UNIT",
+            "TO": "COMMAND CENTER",
+            "PRIORITY": "IMMEDIATE",
+            "DTG": "210200Z OCT 24",
+            "MESSAGE": "1. OIL SPILL DETECTED AT 13\u00c2\u00b025'N, 71\u00c2\u00b020'W."
+        },
+        {
+            "FROM": "FISHERIES PATROL ECHO",
+            "TO": "COASTAL ENFORCEMENT",
+            "PRIORITY": "PRIORITY",
+            "DTG": "210330Z OCT 24",
+            "MESSAGE": "1. INTERCEPTED FISHING VESSEL \"LUCKY STAR\" IN PROTECTED MARINE RESERVE."
+        },
+        {
+            "FROM": "NAVAL INTELLIGENCE FOXTROT",
+            "TO": "FLEET COMMAND",
+            "PRIORITY": "SECRET",
+            "DTG": "210500Z OCT 24",
+            "MESSAGE": "1. INTERCEPTED COMMUNICATIONS SUGGEST POSSIBLE HOSTILE SUBMARINE ACTIVITY."
+        },
+        {
+            "FROM": "LIGHTHOUSE KEEPER GULF",
+            "TO": "NAVIGATION WARNING OFFICE",
+            "PRIORITY": "ROUTINE",
+            "DTG": "210630Z OCT 24",
+            "MESSAGE": "1. LIGHTHOUSE AT 13\u00c2\u00b005'N, 70\u00c2\u00b020'W UNDERGOING URGENT REPAIRS."
+        },
+        {
+            "FROM": "COAST GUARD CUTTER HOTEL",
+            "TO": "MARITIME OPERATIONS CENTER",
+            "PRIORITY": "IMMEDIATE",
+            "DTG": "210800Z OCT 24",
+            "MESSAGE": "1. INTERCEPTED SUSPICIOUS VESSEL AT 13\u00c2\u00b015'N, 71\u00c2\u00b010'W."
+        },
+        {
+            "FROM": "AIR TRAFFIC CONTROL INDIA",
+            "TO": "ALL AIRCRAFT",
+            "PRIORITY": "URGENT",
+            "DTG": "210930Z OCT 24",
+            "MESSAGE": "1. TEMPORARY FLIGHT RESTRICTIONS IMPLEMENTED."
+        },
+        {
+            "FROM": "UNDERWATER RESEARCH VESSEL JULIET",
+            "TO": "OCEANOGRAPHIC INSTITUTE",
+            "PRIORITY": "ROUTINE",
+            "DTG": "211100Z OCT 24",
+            "MESSAGE": "1. DISCOVERED PREVIOUSLY UNKNOWN HYDROTHERMAL VENT FIELD."
+        },
+        {
+            "FROM": "BORDER PATROL KILO",
+            "TO": "CUSTOMS ENFORCEMENT",
+            "PRIORITY": "IMMEDIATE",
+            "DTG": "211230Z OCT 24",
+            "MESSAGE": "1. DETECTED FAST BOAT APPROACHING FROM INTERNATIONAL WATERS."
+        },
+        {
+            "FROM": "MARITIME SECURITY LIMA",
+            "TO": "ALL SHIPPING COMPANIES",
+            "PRIORITY": "URGENT",
+            "DTG": "211400Z OCT 24",
+            "MESSAGE": "1. PIRACY ALERT ISSUED FOR WATERS NEAR 13\u00c2\u00b000'N, 71\u00c2\u00b030'W."
+        },
+        {
+            "FROM": "NAVAL TASK FORCE MIKE",
+            "TO": "FLEET HEADQUARTERS",
+            "PRIORITY": "CONFIDENTIAL",
+            "DTG": "211530Z OCT 24",
+            "MESSAGE": "1. COMMENCED ANTI-SUBMARINE WARFARE EXERCISES."
+        },
+        {
+            "FROM": "MARINE MAMMAL RESEARCH TEAM NOVEMBER",
+            "TO": "WILDLIFE CONSERVATION OFFICE",
+            "PRIORITY": "ROUTINE",
+            "DTG": "211700Z OCT 24",
+            "MESSAGE": "1. OBSERVED LARGE POD OF HUMPBACK WHALES."
+        },
+        {
+            "FROM": "COASTAL RADAR STATION OSCAR",
+            "TO": "AIR DEFENSE COMMAND",
+            "PRIORITY": "URGENT",
+            "DTG": "211830Z OCT 24",
+            "MESSAGE": "1. UNIDENTIFIED AIRCRAFT DETECTED."
+        },
+        {
+            "FROM": "UNDERWATER DEMOLITION TEAM PAPA",
+            "TO": "NAVAL SPECIAL WARFARE COMMAND",
+            "PRIORITY": "SECRET",
+            "DTG": "212000Z OCT 24",
+            "MESSAGE": "1. COMPLETED PLACEMENT OF UNDERWATER SENSORS."
+        },
+        {
+            "FROM": "METEOROLOGICAL STATION QUEBEC",
+            "TO": "ALL MARITIME UNITS",
+            "PRIORITY": "IMMEDIATE",
+            "DTG": "212130Z OCT 24",
+            "MESSAGE": "1. SEVERE STORM WARNING ISSUED."
+        },
+        {
+            "FROM": "MARITIME PATROL AIRCRAFT ROMEO",
+            "TO": "SEARCH AND RESCUE COORDINATION CENTER",
+            "PRIORITY": "URGENT",
+            "DTG": "212300Z OCT 24",
+            "MESSAGE": "1. LOCATED MISSING YACHT \"SERENITY\"."
+        },
+        {
+            "FROM": "SUBMARINE TENDER SIERRA",
+            "TO": "FLEET LOGISTICS COMMAND",
+            "PRIORITY": "ROUTINE",
+            "DTG": "220030Z OCT 24",
+            "MESSAGE": "1. COMPLETED RESUPPLY OF SUBMARINE DELTA."
+        },
+        {
+            "FROM": "ELECTRONIC WARFARE UNIT TANGO",
+            "TO": "SIGNALS INTELLIGENCE HQ",
+            "PRIORITY": "SECRET",
+            "DTG": "220200Z OCT 24",
+            "MESSAGE": "1. DETECTED UNUSUAL ELECTROMAGNETIC EMISSIONS."
+        },
+        {
+            "FROM": "COAST GUARD AUXILIARY UNIFORM",
+            "TO": "SECTOR COMMAND",
+            "PRIORITY": "IMMEDIATE",
+            "DTG": "220330Z OCT 24",
+            "MESSAGE": "1. RESCUED 5 CREW MEMBERS FROM SINKING FISHING VESSEL."
+        },
+        {
+            "FROM": "HYDROGRAPHIC SURVEY VESSEL VICTOR",
+            "TO": "NAUTICAL CHARTING OFFICE",
+            "PRIORITY": "ROUTINE",
+            "DTG": "220500Z OCT 24",
+            "MESSAGE": "1. COMPLETED SURVEY OF SECTOR 7B."
+        },
+        {
+            "FROM": "MARINE POLLUTION CONTROL WHISKEY",
+            "TO": "ENVIRONMENTAL PROTECTION AGENCY",
+            "PRIORITY": "URGENT",
+            "DTG": "220630Z OCT 24",
+            "MESSAGE": "1. LARGE DEBRIS FIELD SPOTTED AT 12\u00c2\u00b035'N, 71\u00c2\u00b018'W."
+        },
+        {
+            "FROM": "NAVAL AIR STATION X-RAY",
+            "TO": "FLEET AIR ARM",
+            "PRIORITY": "IMMEDIATE",
+            "DTG": "220800Z OCT 24",
+            "MESSAGE": "1. RUNWAY 27 CLOSED DUE TO DAMAGE FROM HEAVY STORM."
+        },
+        {
+            "FROM": "MERCHANT VESSEL \"GLOBAL TRADER\"",
+            "TO": "NEAREST COAST GUARD STATION",
+            "PRIORITY": "URGENT",
+            "DTG": "220930Z OCT 24",
+            "MESSAGE": "1. MAYDAY MAYDAY MAYDAY."
+        },
+        {
+            "FROM": "UNDERWATER ACOUSTIC ARRAY YANKEE",
+            "TO": "ANTI-SUBMARINE WARFARE COMMAND",
+            "PRIORITY": "IMMEDIATE",
+            "DTG": "221100Z OCT 24",
+            "MESSAGE": "1. DETECTED MULTIPLE UNDERSEA CONTACTS."
+        },
+        {
+            "FROM": "MARITIME BORDER PATROL ZULU",
+            "TO": "CUSTOMS ENFORCEMENT",
+            "PRIORITY": "URGENT",
+            "DTG": "221230Z OCT 24",
+            "MESSAGE": "1. INTERCEPTED SUSPICIOUS VESSEL AT 13\u00c2\u00b015'N, 70\u00c2\u00b040'W."
+        },
+        {
+            "FROM": "OCEANOGRAPHIC RESEARCH VESSEL ALPHA",
+            "TO": "MARINE SCIENCE INSTITUTE",
+            "PRIORITY": "ROUTINE",
+            "DTG": "221400Z OCT 24",
+            "MESSAGE": "1. DISCOVERED UNUSUAL CORAL FORMATION AT 12\u00c2\u00b045'N, 71\u00c2\u00b020'W."
+        },
+        {
+            "FROM": "COASTAL DEFENSE BATTERY BRAVO",
+            "TO": "NAVAL SHORE COMMAND",
+            "PRIORITY": "IMMEDIATE",
+            "DTG": "221530Z OCT 24",
+            "MESSAGE": "1. UNIDENTIFIED SURFACE CONTACTS APPROACHING TERRITORIAL WATERS."
+        },
+        {
+            "FROM": "DEEP SEA MINING VESSEL CHARLIE",
+            "TO": "OFFSHORE RESOURCES AUTHORITY",
+            "PRIORITY": "ROUTINE",
+            "DTG": "221700Z OCT 24",
+            "MESSAGE": "1. COMMENCED OPERATIONS AT DESIGNATED SITE DELTA-7."
+        },
+        {
+            "FROM": "MARITIME PATROL AIRCRAFT DELTA",
+            "TO": "AIR OPERATIONS CENTER",
+            "PRIORITY": "URGENT",
+            "DTG": "221830Z OCT 24",
+            "MESSAGE": "1. SPOTTED LARGE OIL SLICK AT 13\u00c2\u00b010'N, 70\u00c2\u00b050'W."
+        },
+        {
+            "FROM": "SUBMARINE ECHO",
+            "TO": "SUBMARINE FLOTILLA COMMAND",
+            "PRIORITY": "CONFIDENTIAL",
+            "DTG": "222000Z OCT 24",
+            "MESSAGE": "1. COMPLETED COVERT SURVEILLANCE OF SECTOR 9."
+        },
+        {
+            "FROM": "MARINE SANCTUARY WARDEN FOXTROT",
+            "TO": "WILDLIFE PROTECTION AGENCY",
+            "PRIORITY": "IMMEDIATE",
+            "DTG": "222130Z OCT 24",
+            "MESSAGE": "1. MULTIPLE VESSELS ILLEGALLY FISHING IN PROTECTED WATERS."
+        },
+        {
+            "FROM": "COAST GUARD CUTTER GOLF",
+            "TO": "MARITIME RESCUE COORDINATION CENTER",
+            "PRIORITY": "URGENT",
+            "DTG": "222300Z OCT 24",
+            "MESSAGE": "1. RESPONDED TO DISTRESS CALL FROM YACHT \"SEABREEZE\"."
+        },
+        {
+            "FROM": "NAVAL INTELLIGENCE HOTEL",
+            "TO": "FLEET COMMAND",
+            "PRIORITY": "SECRET",
+            "DTG": "230030Z OCT 24",
+            "MESSAGE": "1. INTERCEPTED ENCRYPTED COMMUNICATIONS FROM UNKNOWN SOURCE."
+        },
+        {
+            "FROM": "OFFSHORE WIND FARM INDIA",
+            "TO": "COASTAL ENERGY AUTHORITY",
+            "PRIORITY": "ROUTINE",
+            "DTG": "230200Z OCT 24",
+            "MESSAGE": "1. COMPLETED INSTALLATION OF NEW TURBINE ARRAY."
+        },
+        {
+            "FROM": "MARITIME SURVEILLANCE DRONE JULIET",
+            "TO": "COASTAL SECURITY COMMAND",
+            "PRIORITY": "IMMEDIATE",
+            "DTG": "230330Z OCT 24",
+            "MESSAGE": "1. DETECTED UNAUTHORIZED DATA TRANSMISSION FROM OCEAN BUOY."
+        },
+        {
+            "FROM": "LIGHTHOUSE KEEPER KILO",
+            "TO": "MARITIME SAFETY OFFICE",
+            "PRIORITY": "URGENT",
+            "DTG": "230500Z OCT 24",
+            "MESSAGE": "1. MAIN LIGHT MECHANISM FAILURE AT POINT NEBULA LIGHTHOUSE."
+        },
+        {
+            "FROM": "MARINE GEOLOGY SURVEY LIMA",
+            "TO": "EARTHQUAKE MONITORING CENTER",
+            "PRIORITY": "IMMEDIATE",
+            "DTG": "230630Z OCT 24",
+            "MESSAGE": "1. DETECTED SERIES OF UNDERWATER SEISMIC EVENTS."
+        },
+        {
+            "FROM": "NAVAL TASK FORCE MIKE",
+            "TO": "FLEET HEADQUARTERS",
+            "PRIORITY": "CONFIDENTIAL",
+            "DTG": "230800Z OCT 24",
+            "MESSAGE": "1. COMPLETED LARGE-SCALE NAVAL EXERCISE IN SECTOR 12."
+        },
+        {
+            "FROM": "FISHERIES PROTECTION VESSEL NOVEMBER",
+            "TO": "DEPARTMENT OF MARINE RESOURCES",
+            "PRIORITY": "URGENT",
+            "DTG": "230930Z OCT 24",
+            "MESSAGE": "1. INTERCEPTED LARGE TRAWLER VIOLATING FISHING REGULATIONS."
+        },
+        {
+            "FROM": "UNDERWATER ARCHAEOLOGY TEAM OSCAR",
+            "TO": "NATIONAL MARITIME MUSEUM",
+            "PRIORITY": "ROUTINE",
+            "DTG": "231100Z OCT 24",
+            "MESSAGE": "1. DISCOVERED WRECK OF 18TH CENTURY MERCHANT SHIP."
+        },
+        {
+            "FROM": "COAST GUARD PATROL PAPA",
+            "TO": "MARITIME BORDER CONTROL",
+            "PRIORITY": "IMMEDIATE",
+            "DTG": "231230Z OCT 24",
+            "MESSAGE": "1. INTERCEPTED SUSPICIOUS FAST BOAT AT 13\u00c2\u00b040'N, 70\u00c2\u00b050'W."
+        },
+        {
+            "FROM": "MARINE TRAFFIC CONTROL QUEBEC",
+            "TO": "ALL VESSELS IN SECTOR 14",
+            "PRIORITY": "URGENT",
+            "DTG": "231400Z OCT 24",
+            "MESSAGE": "1. HAZARDOUS MATERIAL SPILL REPORTED IN SHIPPING LANE."
+        },
+        {
+            "FROM": "NAVAL AIR SQUADRON ROMEO",
+            "TO": "CARRIER STRIKE GROUP COMMAND",
+            "PRIORITY": "CONFIDENTIAL",
+            "DTG": "231530Z OCT 24",
+            "MESSAGE": "1. COMPLETED RECONNAISSANCE FLIGHT OVER DISPUTED WATERS."
+        },
+        {
+            "FROM": "UNDERWATER SENSOR NETWORK SIERRA",
+            "TO": "ANTISUBMARINE WARFARE CENTER",
+            "PRIORITY": "IMMEDIATE",
+            "DTG": "231700Z OCT 24",
+            "MESSAGE": "1. DETECTED ANOMALOUS ACOUSTIC SIGNATURE AT 12\u00c2\u00b040'N, 70\u00c2\u00b055'W."
+        },
+        {
+            "FROM": "MARITIME SECURITY CONTRACTOR TANGO",
+            "TO": "MERCHANT SHIPPING ASSOCIATION",
+            "PRIORITY": "URGENT",
+            "DTG": "231830Z OCT 24",
+            "MESSAGE": "1. PIRACY ATTEMPT THWARTED ON CONTAINER SHIP \"GLOBAL EXPRESS\"."
+        },
+        {
+            "FROM": "DEEP SEA EXPLORATION VESSEL UNIFORM",
+            "TO": "OCEANOGRAPHIC RESEARCH INSTITUTE",
+            "PRIORITY": "ROUTINE",
+            "DTG": "232000Z OCT 24",
+            "MESSAGE": "1. DISCOVERED UNIQUE HYDROTHERMAL VENT ECOSYSTEM AT 12\u00c2\u00b035'N, 71\u00c2\u00b025'W."
+        },
+        {
+            "FROM": "COASTAL RADAR STATION VICTOR",
+            "TO": "AIR DEFENSE COMMAND",
+            "PRIORITY": "URGENT",
+            "DTG": "232130Z OCT 24",
+            "MESSAGE": "1. DETECTED UNIDENTIFIED AERIAL OBJECT AT 13\u00c2\u00b050'N, 70\u00c2\u00b040'W."
+        },
+        {
+            "FROM": "MARINE MAMMAL RESCUE TEAM WHISKEY",
+            "TO": "WILDLIFE CONSERVATION AGENCY",
+            "PRIORITY": "IMMEDIATE",
+            "DTG": "232300Z OCT 24",
+            "MESSAGE": "1. MASS STRANDING EVENT IN PROGRESS AT CRESCENT BAY."
+        },
+        {
+            "FROM": "OFFSHORE OIL PLATFORM X-RAY",
+            "TO": "COASTAL EMERGENCY SERVICES",
+            "PRIORITY": "URGENT",
+            "DTG": "240030Z OCT 24",
+            "MESSAGE": "1. EXPLOSION REPORTED ON DRILLING DECK."
+        },
+        {
+            "FROM": "NAVAL SPECIAL OPERATIONS YANKEE",
+            "TO": "JOINT TASK FORCE COMMAND",
+            "PRIORITY": "TOP SECRET",
+            "DTG": "240200Z OCT 24",
+            "MESSAGE": "1. COVERT INSERTION COMPLETED AT OBJECTIVE FALCON."
+        },
+        {
+            "FROM": "METEOROLOGICAL BUOY NETWORK ZULU",
+            "TO": "WEATHER FORECASTING CENTER",
+            "PRIORITY": "IMMEDIATE",
+            "DTG": "240330Z OCT 24",
+            "MESSAGE": "1. SUDDEN PRESSURE DROP DETECTED ACROSS MULTIPLE BUOYS."
+        },
+        {
+            "FROM": "SUBMARINE TENDER ALPHA",
+            "TO": "SUBMARINE FLOTILLA COMMAND",
+            "PRIORITY": "CONFIDENTIAL",
+            "DTG": "240500Z OCT 24",
+            "MESSAGE": "1. COMPLETED RESUPPLY OPERATION WITH SSN BARRACUDA."
+        },
+        {
+            "FROM": "MARINE POLLUTION CONTROL BRAVO",
+            "TO": "ENVIRONMENTAL PROTECTION AGENCY",
+            "PRIORITY": "URGENT",
+            "DTG": "240630Z OCT 24",
+            "MESSAGE": "1. DETECTED LARGE TOXIC ALGAL BLOOM FORMING."
+        },
+        {
+            "FROM": "COAST GUARD AERIAL PATROL CHARLIE",
+            "TO": "SEARCH AND RESCUE COORDINATION CENTER",
+            "PRIORITY": "IMMEDIATE",
+            "DTG": "240800Z OCT 24",
+            "MESSAGE": "1. SPOTTED DEBRIS FIELD AT 13\u00c2\u00b040'N, 70\u00c2\u00b050'W."
+        },
+        {
+            "FROM": "HYDROGRAPHIC SURVEY VESSEL DELTA",
+            "TO": "NAVAL CARTOGRAPHY OFFICE",
+            "PRIORITY": "ROUTINE",
+            "DTG": "240930Z OCT 24",
+            "MESSAGE": "1. COMPLETED HIGH-RESOLUTION MAPPING OF SEAFLOOR IN SECTOR 17."
+        },
+        {
+            "FROM": "ELECTRONIC INTELLIGENCE SHIP ECHO",
+            "TO": "SIGNALS INTELLIGENCE HEADQUARTERS",
+            "PRIORITY": "SECRET",
+            "DTG": "241100Z OCT 24",
+            "MESSAGE": "1. INTERCEPTED ENCRYPTED TRANSMISSIONS FROM UNKNOWN VESSEL."
+        },
+        {
+            "FROM": "MARINE SANCTUARY WARDEN FOXTROT",
+            "TO": "FISHERIES MANAGEMENT AUTHORITY",
+            "PRIORITY": "URGENT",
+            "DTG": "241230Z OCT 24",
+            "MESSAGE": "1. MASSIVE FISH DIE-OFF OBSERVED IN PROTECTED WATERS."
+        },
+        {
+            "FROM": "AUTONOMOUS UNDERWATER VEHICLE GOLF",
+            "TO": "DEEP SEA MINING CONSORTIUM",
+            "PRIORITY": "ROUTINE",
+            "DTG": "241400Z OCT 24",
+            "MESSAGE": "1. COMPLETED SURVEY OF POTENTIAL MINING SITE BRAVO."
+        },
+        {
+            "FROM": "MARITIME BORDER PATROL HOTEL",
+            "TO": "CUSTOMS AND IMMIGRATION ENFORCEMENT",
+            "PRIORITY": "IMMEDIATE",
+            "DTG": "241530Z OCT 24",
+            "MESSAGE": "1. INTERCEPTED VESSEL SUSPECTED OF HUMAN TRAFFICKING."
+        },
+        {
+            "FROM": "TSUNAMI WARNING CENTER INDIA",
+            "TO": "ALL COASTAL AUTHORITIES",
+            "PRIORITY": "URGENT",
+            "DTG": "241700Z OCT 24",
+            "MESSAGE": "1. STRONG EARTHQUAKE DETECTED, MAGNITUDE 7.8."
+        },
+        {
+            "FROM": "NAVAL AIR STATION JULIET",
+            "TO": "FLEET AIR ARM COMMAND",
+            "PRIORITY": "IMMEDIATE",
+            "DTG": "241830Z OCT 24",
+            "MESSAGE": "1. UNIDENTIFIED SUBMARINE PERISCOPE SIGHTED NEAR BASE PERIMETER."
+        },
+        {
+            "FROM": "OFFSHORE WIND FARM KILO",
+            "TO": "COASTAL ENERGY AUTHORITY",
+            "PRIORITY": "ROUTINE",
+            "DTG": "242000Z OCT 24",
+            "MESSAGE": "1. ABNORMAL READINGS FROM TURBINE CLUSTER 7."
+        },
+        {
+            "FROM": "MARINE ARCHAEOLOGIST TEAM LIMA",
+            "TO": "HISTORICAL PRESERVATION OFFICE",
+            "PRIORITY": "IMMEDIATE",
+            "DTG": "242130Z OCT 24",
+            "MESSAGE": "1. DISCOVERED INTACT ANCIENT SHIPWRECK AT 13\u00c2\u00b030'N, 71\u00c2\u00b020'W."
+        },
+        {
+            "FROM": "COAST GUARD CUTTER MIKE",
+            "TO": "MARITIME RESCUE COORDINATION CENTER",
+            "PRIORITY": "URGENT",
+            "DTG": "242300Z OCT 24",
+            "MESSAGE": "1. RESPONDING TO DISTRESS CALL FROM CRUISE SHIP \"OCEANIC DREAM\"."
+        },
+        {
+            "FROM": "UNDERWATER ACOUSTIC ARRAY NOVEMBER",
+            "TO": "NAVAL INTELLIGENCE CENTER",
+            "PRIORITY": "CONFIDENTIAL",
+            "DTG": "250030Z OCT 24",
+            "MESSAGE": "1. DETECTED UNUSUAL SEISMIC ACTIVITY AT 12\u00c2\u00b055'N, 71\u00c2\u00b040'W."
+        },
+        {
+            "FROM": "FISHERIES RESEARCH VESSEL OSCAR",
+            "TO": "MARINE BIOLOGY INSTITUTE",
+            "PRIORITY": "ROUTINE",
+            "DTG": "250200Z OCT 24",
+            "MESSAGE": "1. OBSERVED UNPRECEDENTED GATHERING OF VARIOUS MARINE SPECIES."
+        },
+        {
+            "FROM": "COASTAL DEFENSE BATTERY PAPA",
+            "TO": "NAVAL SHORE COMMAND",
+            "PRIORITY": "IMMEDIATE",
+            "DTG": "250330Z OCT 24",
+            "MESSAGE": "1. RADAR CONTACT WITH FAST-MOVING, LOW-FLYING OBJECT."
+        },
+        {
+            "FROM": "MARINE TRAFFIC CONTROL QUEBEC",
+            "TO": "ALL VESSELS IN SECTOR 23",
+            "PRIORITY": "URGENT",
+            "DTG": "250500Z OCT 24",
+            "MESSAGE": "1. ROGUE WAVE REPORTED BY MULTIPLE VESSELS."
+        },
+        {
+            "FROM": "UNDERWATER DEMOLITION TEAM ROMEO",
+            "TO": "SPECIAL OPERATIONS COMMAND",
+            "PRIORITY": "SECRET",
+            "DTG": "250630Z OCT 24",
+            "MESSAGE": "1. SUCCESSFULLY NEUTRALIZED UNDERWATER LISTENING DEVICE."
+        },
+        {
+            "FROM": "ENVIRONMENTAL MONITORING SATELLITE SIERRA",
+            "TO": "CLIMATE RESEARCH CENTER",
+            "PRIORITY": "IMMEDIATE",
+            "DTG": "250800Z OCT 24",
+            "MESSAGE": "1. DETECTED MASSIVE METHANE RELEASE EVENT."
+        },
+        {
+            "FROM": "DEEP-SEA MINING VESSEL TANGO",
+            "TO": "INTERNATIONAL SEABED AUTHORITY",
+            "PRIORITY": "URGENT",
+            "DTG": "250930Z OCT 24",
+            "MESSAGE": "1. ENCOUNTERED UNEXPECTED GEOLOGICAL FORMATION AT MINING SITE."
+        },
+        {
+            "FROM": "COAST GUARD PATROL UNIFORM",
+            "TO": "MARITIME BORDER CONTROL",
+            "PRIORITY": "IMMEDIATE",
+            "DTG": "251100Z OCT 24",
+            "MESSAGE": "1. INTERCEPTED SUSPICIOUS VESSEL AT 13\u00c2\u00b020'N, 70\u00c2\u00b030'W."
+        },
+        {
+            "FROM": "MARINE MAMMAL RESEARCH TEAM VICTOR",
+            "TO": "OCEANIC SOUND MONITORING PROJECT",
+            "PRIORITY": "ROUTINE",
+            "DTG": "251230Z OCT 24",
+            "MESSAGE": "1. RECORDED UNUSUAL WHALE VOCALIZATIONS IN SECTOR 8."
+        },
+        {
+            "FROM": "NAVAL TASK FORCE WHISKEY",
+            "TO": "FLEET COMMAND",
+            "PRIORITY": "CONFIDENTIAL",
+            "DTG": "251400Z OCT 24",
+            "MESSAGE": "1. COMPLETED SWEEP OF SUSPECTED HOSTILE SUBMARINE ACTIVITY AREA."
+        },
+        {
+            "FROM": "OFFSHORE PLATFORM X-RAY",
+            "TO": "ENERGY REGULATORY COMMISSION",
+            "PRIORITY": "URGENT",
+            "DTG": "251530Z OCT 24",
+            "MESSAGE": "1. EXPERIENCING UNEXPECTED PRESSURE BUILDUP IN WELL 7."
+        },
+        {
+            "FROM": "HURRICANE HUNTER AIRCRAFT YANKEE",
+            "TO": "NATIONAL WEATHER SERVICE",
+            "PRIORITY": "IMMEDIATE",
+            "DTG": "251700Z OCT 24",
+            "MESSAGE": "1. INVESTIGATED TROPICAL DISTURBANCE AT 14\u00c2\u00b000'N, 72\u00c2\u00b000'W."
+        },
+        {
+            "FROM": "SUBMARINE ZULU",
+            "TO": "SUBMARINE FORCE COMMAND",
+            "PRIORITY": "SECRET",
+            "DTG": "251830Z OCT 24",
+            "MESSAGE": "1. OBSERVED UNIDENTIFIED UNDERWATER VEHICLE AT 12\u00c2\u00b040'N, 71\u00c2\u00b005'W."
+        },
+        {
+            "FROM": "MARINE POLLUTION CONTROL ALPHA",
+            "TO": "ENVIRONMENTAL PROTECTION AGENCY",
+            "PRIORITY": "URGENT",
+            "DTG": "252000Z OCT 24",
+            "MESSAGE": "1. DETECTED LARGE-SCALE CHEMICAL SPILL AT 13\u00c2\u00b015'N, 70\u00c2\u00b050'W."
+        },
+        {
+            "FROM": "COASTAL RADAR STATION BRAVO",
+            "TO": "AIR DEFENSE COMMAND",
+            "PRIORITY": "IMMEDIATE",
+            "DTG": "252130Z OCT 24",
+            "MESSAGE": "1. TRACKED FORMATION OF UNIDENTIFIED AIRCRAFT ENTERING RESTRICTED AIRSPACE."
+        },
+        {
+            "FROM": "DEEP SEA EXPLORATION VESSEL CHARLIE",
+            "TO": "OCEANOGRAPHIC RESEARCH INSTITUTE",
+            "PRIORITY": "ROUTINE",
+            "DTG": "252300Z OCT 24",
+            "MESSAGE": "1. DISCOVERED UNIQUE BIOLUMINESCENT PHENOMENON AT 12\u00c2\u00b055'N, 71\u00c2\u00b030'W."
+        },
+        {
+            "FROM": "MARITIME SECURITY TEAM DELTA",
+            "TO": "PORT AUTHORITY",
+            "PRIORITY": "URGENT",
+            "DTG": "260030Z OCT 24",
+            "MESSAGE": "1. SUSPICIOUS PACKAGE DETECTED DURING ROUTINE SCAN OF INCOMING CARGO."
+        },
+        {
+            "FROM": "FISHERIES PATROL VESSEL ECHO",
+            "TO": "MARINE RESOURCES MANAGEMENT",
+            "PRIORITY": "IMMEDIATE",
+            "DTG": "260200Z OCT 24",
+            "MESSAGE": "1. ENCOUNTERED MASSIVE SCHOOL OF UNIDENTIFIED FISH SPECIES."
+        },
+        {
+            "FROM": "NAVAL INTELLIGENCE FOXTROT",
+            "TO": "CYBERWARFARE COMMAND",
+            "PRIORITY": "SECRET",
+            "DTG": "260330Z OCT 24",
+            "MESSAGE": "1. DETECTED SOPHISTICATED CYBER ATTACK ON NAVAL COMMUNICATIONS NETWORK."
+        },
+        {
+            "FROM": "COAST GUARD CUTTER GOLF",
+            "TO": "SEARCH AND RESCUE COORDINATION CENTER",
+            "PRIORITY": "URGENT",
+            "DTG": "260500Z OCT 24",
+            "MESSAGE": "1. RESPONDING TO DISTRESS SIGNAL FROM PRIVATE YACHT \"SEA SPIRIT\"."
+        },
+        {
+            "FROM": "UNDERWATER ACOUSTIC ARRAY HOTEL",
+            "TO": "SEISMOLOGICAL MONITORING CENTER",
+            "PRIORITY": "IMMEDIATE",
+            "DTG": "260630Z OCT 24",
+            "MESSAGE": "1. DETECTED SERIES OF UNDERWATER EXPLOSIONS."
+        },
+        {
+            "FROM": "MARINE SANCTUARY WARDEN INDIA",
+            "TO": "WILDLIFE PROTECTION AGENCY",
+            "PRIORITY": "URGENT",
+            "DTG": "260800Z OCT 24",
+            "MESSAGE": "1. OBSERVED MASS DIE-OFF OF CORAL IN PROTECTED REEF."
+        },
+        {
+            "FROM": "AUTONOMOUS UNDERWATER VEHICLE JULIET",
+            "TO": "DEEP SEA MINING CONSORTIUM",
+            "PRIORITY": "ROUTINE",
+            "DTG": "260930Z OCT 24",
+            "MESSAGE": "1. COMPLETED SURVEY OF POTENTIAL MINING SITE DELTA."
+        },
+        {
+            "FROM": "METEOROLOGICAL BUOY NETWORK KILO",
+            "TO": "HURRICANE TRACKING CENTER",
+            "PRIORITY": "IMMEDIATE",
+            "DTG": "261100Z OCT 24",
+            "MESSAGE": "1. RECORDING EXTREME WEATHER CONDITIONS IN SECTOR 6."
+        },
+        {
+            "FROM": "SUBMARINE TENDER LIMA",
+            "TO": "FLEET LOGISTICS COMMAND",
+            "PRIORITY": "CONFIDENTIAL",
+            "DTG": "261230Z OCT 24",
+            "MESSAGE": "1. COMPLETED COVERT RESUPPLY OF SSN BARRACUDA."
+        },
+        {
+            "FROM": "COASTAL DEFENSE BATTERY MIKE",
+            "TO": "NAVAL SHORE COMMAND",
+            "PRIORITY": "URGENT",
+            "DTG": "261400Z OCT 24",
+            "MESSAGE": "1. UNIDENTIFIED SURFACE VESSELS APPROACHING TERRITORIAL WATERS."
+        },
+        {
+            "FROM": "MARINE GEOLOGY SURVEY NOVEMBER",
+            "TO": "TECTONIC RESEARCH CENTER",
+            "PRIORITY": "IMMEDIATE",
+            "DTG": "261530Z OCT 24",
+            "MESSAGE": "1. DETECTED SIGNIFICANT SEISMIC ACTIVITY AT 13\u00c2\u00b015'N, 71\u00c2\u00b025'W."
+        },
+        {
+            "FROM": "ELECTRONIC WARFARE SHIP OSCAR",
+            "TO": "NAVAL INTELLIGENCE CENTER",
+            "PRIORITY": "SECRET",
+            "DTG": "261700Z OCT 24",
+            "MESSAGE": "1. INTERCEPTED ENCRYPTED TRANSMISSIONS FROM UNKNOWN SOURCE."
+        },
+        {
+            "FROM": "OFFSHORE WIND FARM PAPA",
+            "TO": "COASTAL ENERGY AUTHORITY",
+            "PRIORITY": "URGENT",
+            "DTG": "261830Z OCT 24",
+            "MESSAGE": "1. EXPERIENCING CATASTROPHIC FAILURE OF MULTIPLE TURBINES."
+        },
+        {
+            "FROM": "DEEP SEA RESEARCH SUBMERSIBLE QUEBEC",
+            "TO": "MARINE BIOLOGY INSTITUTE",
+            "PRIORITY": "ROUTINE",
+            "DTG": "262000Z OCT 24",
+            "MESSAGE": "1. DISCOVERED UNKNOWN SPECIES OF GIANT SQUID."
+        },
+        {
+            "FROM": "NAVAL AIR PATROL ROMEO",
+            "TO": "MARITIME OPERATIONS CENTER",
+            "PRIORITY": "IMMEDIATE",
+            "DTG": "262130Z OCT 24",
+            "MESSAGE": "1. SPOTTED LARGE DEBRIS FIELD AT 13\u00c2\u00b050'N, 71\u00c2\u00b005'W."
+        },
+        {
+            "FROM": "PATROL BOAT BRAVO",
+            "TO": "COMMAND CENTER",
+            "PRIORITY": "URGENT",
+            "DTG": "201700Z OCT 24",
+            "MESSAGE": "1. DETECTED SUBMARINE PERISCOPE AT 13\u00c2\u00b045'N, 71\u00c2\u00b023'W AT 1645Z."
+        },
+        {
+            "FROM": "COASTAL STATION ALPHA",
+            "TO": "ALL UNITS",
+            "PRIORITY": "ROUTINE",
+            "DTG": "211030Z OCT 24",
+            "MESSAGE": "1. WEATHER ADVISORY: TROPICAL STORM APPROACHING."
+        },
+        {
+            "FROM": "AIR PATROL CHARLIE",
+            "TO": "COMMAND CENTER",
+            "PRIORITY": "IMMEDIATE",
+            "DTG": "221545Z OCT 24",
+            "MESSAGE": "1. SPOTTED VESSEL MATCHING DESCRIPTION OF WANTED SMUGGLING SHIP."
+        },
+        {
+            "FROM": "SUBMARINE DELTA",
+            "TO": "FLEET COMMAND",
+            "PRIORITY": "CONFIDENTIAL",
+            "DTG": "231200Z OCT 24",
+            "MESSAGE": "1. COMPLETED UNDERWATER MAPPING OF SECTOR 4."
+        },
+        {
+            "FROM": "PORT AUTHORITY XAVIER",
+            "TO": "ALL MARITIME UNITS",
+            "PRIORITY": "ROUTINE",
+            "DTG": "241400Z OCT 24",
+            "MESSAGE": "1. PORT CLOSURE DUE TO MAINTENANCE."
+        },
+        {
+            "FROM": "RESCUE COORDINATION CENTER",
+            "TO": "ALL VESSELS IN VICINITY",
+            "PRIORITY": "URGENT",
+            "DTG": "251830Z OCT 24",
+            "MESSAGE": "1. DISTRESS CALL RECEIVED FROM YACHT \"SERENITY\""
+        },
+        {
+            "FROM": "ENVIRONMENTAL PROTECTION UNIT",
+            "TO": "COMMAND CENTER",
+            "PRIORITY": "IMMEDIATE",
+            "DTG": "261045Z OCT 24",
+            "MESSAGE": "1. OIL SPILL DETECTED AT 13\u00c2\u00b025'N, 71\u00c2\u00b020'W."
+        },
+        {
+            "FROM": "FISHERIES PATROL ECHO",
+            "TO": "COASTAL ENFORCEMENT",
+            "PRIORITY": "PRIORITY",
+            "DTG": "270830Z OCT 24",
+            "MESSAGE": "1. INTERCEPTED FISHING VESSEL \"LUCKY STAR\" IN PROTECTED MARINE RESERVE."
+        },
+        {
+            "FROM": "NAVAL INTELLIGENCE FOXTROT",
+            "TO": "FLEET COMMAND",
+            "PRIORITY": "SECRET",
+            "DTG": "281200Z OCT 24",
+            "MESSAGE": "1. INTERCEPTED COMMUNICATIONS SUGGEST POSSIBLE HOSTILE SUBMARINE ACTIVITY."
+        },
+        {
+            "FROM": "LIGHTHOUSE KEEPER GULF",
+            "TO": "NAVIGATION WARNING OFFICE",
+            "PRIORITY": "ROUTINE",
+            "DTG": "291600Z OCT 24",
+            "MESSAGE": "1. LIGHTHOUSE AT 13\u00c2\u00b005'N, 70\u00c2\u00b020'W UNDERGOING URGENT REPAIRS."
+        }
+    ],
+    "strategic_maritime_zones": [],
+    "checkpoint_surveillance": [],
+    "operation_zones": [],
+    "mine_warfare_exercise_areas": [],
+    "maritime_interdiction_operation_areas": [],
+    "asw_exercise_areas": [],
+    "amphibious_operation_exercise_areas": [],
+    "air_patrol_zones": [],
+    "air_defense_exercise_areas": []
+}
