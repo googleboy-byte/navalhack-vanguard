@@ -95,8 +95,7 @@ async def read_ops():
 
 @app.get("/", response_class=HTMLResponse)
 async def read_ops_norm():
-    with open("static/landing.html") as f:
-        return HTMLResponse(content=f.read())
+    return RedirectResponse(url="/ops")
 
 
 @app.get("/api/contacts", response_class=JSONResponse)
